@@ -1,13 +1,11 @@
 # SociaLize- A Social Media App
-This is Social Media App built using React JS,Redux Toolkit and Tailwind css, Node JS and Express Js.
+This is a social media app where users can create account and posts and follow other people.
 
 ## Table of contents
 
   - [Features](#features)
   - [Screenshot](#screenshot)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Author](#author)
   
 ### Features
   - SignUp, SignIn Authentication using JWT.
@@ -18,9 +16,17 @@ This is Social Media App built using React JS,Redux Toolkit and Tailwind css, No
   - Users can look for all the other users.
   - Users can look at other profiles and follow or unfollow them.
   
-#### Screenshots
+### Screenshots
 ![](./Screenshots/signup.png)
 ![](./Screenshots/profile.png)
 ![](./Screenshots/post.png)
 ![](./Screenshots/profilesList.png)
 ![](./Screenshots/create%Post.png)
+
+### Built with
+
+  - ReactJs
+  - Redux toolkit 
+  - Tallwind Css
+  - Node Js and Express Js
+ 
