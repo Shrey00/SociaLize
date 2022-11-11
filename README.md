@@ -9,7 +9,7 @@ This is Social Media App built using React JS,Redux Toolkit and Tailwind css, No
   - [What I learned](#what-i-learned)
   - [Author](#author)
   
-###Features
+### Features
   - SignUp, SignIn Authentication using JWT.
   - User can upload a Profile Picture
   - User can create posts, image and written content or any one of it.
@@ -18,5 +18,9 @@ This is Social Media App built using React JS,Redux Toolkit and Tailwind css, No
   - Users can look for all the other users.
   - Users can look at other profiles and follow or unfollow them.
   
-####Screenshots
-  
+#### Screenshots
+![](./Screenshots/signup.png)
+![](./Screenshots/profile.png)
+![](./Screenshots/post.png)
+![](./Screenshots/profilesList.png)
+![](./Screenshots/create%Post.png)
