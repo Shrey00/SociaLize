@@ -1,0 +1,22 @@
+import express from 'express';
+import { signup, signin, updateBio, profileImage, getMe, people, profile,followSomeone, unfollowSomeone } from '../Controllers/User.js';
+import { createPost, getPosts, likePost, dislikePost } from '../Controllers/Posts.js';
+import authenticate from '../Middlewares/authenticate.js';
+import multer from 'multer';
+const router = express.Router();
+const upload = multer();
+
+router.post('/signup', signup);
+router.post('/signin', signin);
+router.post('/bio', authenticate, updateBio);
+router.post('/profileImage', authenticate, upload.single('profileImage'), profileImage);
+router.post('/createPost', authenticate, upload.single('create_post'), createPost);
+router.post('/likePost', authenticate, likePost);
+router.post('/dislikePost', authenticate, dislikePost);
+router.get('/me', authenticate, getMe);
+router.get('/posts', getPosts);
+router.get('/people', authenticate,people);
+router.post('/profile',profile);
+router.post('/follow',authenticate,followSomeone);
+router.post('/unfollow',authenticate,unfollowSomeone);
+export default router;  

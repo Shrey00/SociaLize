@@ -1,0 +1,911 @@
+<style> .textmode { mso-number-format:\@; } </style><div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">S.No</th><th scope="col">AppCode</th><th scope="col">Udisecode</th><th scope="col">SchoolName</th><th scope="col">SubDist</th><th scope="col">Block</th><th scope="col">Email</th><th scope="col">AuthPersonPhone</th><th scope="col">Number of Nominations Submitted</th>
+		</tr><tr class="textmode">
+			<td>1</td><td>APP71268629940</td><td>151016</td><td>Govt High School Malgaon</td><td>Gariyaband</td><td>gariaband</td><td>hsmalgaon123@gmail.com</td><td>9424200272</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>2</td><td>APP71268633815</td><td>22251903704</td><td>Aadarsh Middle School Sohagpur</td><td>Gariyaband</td><td>GARIABAND</td><td>ASHOKNAGESH50@GMAIL.COM</td><td>9009284070</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>3</td><td>APP71268633987</td><td>22250504344</td><td>Govt. Girls Hss Chhura</td><td>Chhura</td><td>Gariaband</td><td>hssgirlschhura@gmail.com</td><td>9755925025</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>4</td><td>APP71268634050</td><td>22251904210</td><td>Govt. Higher Secondary School Piperchhedi</td><td>Gariyaband</td><td>GARIYABAND</td><td>ghsspiperchhedi@gmail.com</td><td>7693056515</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>5</td><td>APP71268634105</td><td>151126</td><td>Govt. High School Magarroda</td><td>Deobhog</td><td>Gariaband</td><td>principal.hsmagarroda@gmail.com</td><td>9691079725</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>6</td><td>APP71268634122</td><td>22250512016</td><td>Govt. H.S. School Atarmara</td><td>Chhura</td><td>Gariaband</td><td>principal.atarmara@gmail.com</td><td>9981298255</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>7</td><td>APP71268634176</td><td>151035</td><td>G.H.S.School Kaundkera</td><td>Fingeshwar</td><td>gariyaband</td><td>g.h.s.s.kaundkera@gmail.com</td><td>9754687094</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>8</td><td>APP71268634187</td><td>22252309207</td><td>Govt High School Borsi</td><td>Fingeshwar</td><td>GARIABAND</td><td>principalghsborsi.2013@gmail.com</td><td>8717807019</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>9</td><td>APP71268634289</td><td>22251915003</td><td>Government High School Sadakparsuli</td><td>Gariyaband</td><td>Gariyaband</td><td>flakra27@gmail.com</td><td>9753840365</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>10</td><td>APP71268634290</td><td>22250503103</td><td>Govt High School Dadargaon Purana</td><td>Chhura</td><td>Gariyaband</td><td>rishisahu6633@gmail.com</td><td>8435560282</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>11</td><td>APP71268634344</td><td>22251901405</td><td>Govt. High School Hathbay</td><td>Gariyaband</td><td>Gariyaband</td><td>prihshathbay@gmail.com</td><td>7771035567</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>12</td><td>APP71268634360</td><td>22251913803</td><td>Govt. High School Gujra</td><td>Gariyaband</td><td>GARIYABAND</td><td>prihsgujra@gmail.com</td><td>9406121540</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>13</td><td>APP71268634521</td><td>22252301402</td><td>G.M.S.Bhaisatara</td><td>Fingeshwar</td><td>GARIYABAND</td><td>nemu.ss.dev@gmail.com</td><td>9981621027</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>14</td><td>APP71268634582</td><td>0512703</td><td>Govt. H.S.Naginbahara</td><td>Chhura</td><td>Gariaband</td><td>hsnaginbahara@gmail.com</td><td>9131261622</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>15</td><td>APP71268634597</td><td>22251903302</td><td>Govt.Middle School Ghutkunawapara</td><td>Gariyaband</td><td>GARIABAND</td><td>gmsghutku@gmail.com</td><td>9926989259</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>16</td><td>APP71268634661</td><td>22251921102</td><td>Govt.Middle School Kamepar</td><td>Gariyaband</td><td>Gariaband</td><td>hmkamepar@gmail.com</td><td>9770134160</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>17</td><td>APP71268634699</td><td>22252300702</td><td>Govt. High School Pasaud</td><td>Fingeshwar</td><td>GARIYABAND</td><td>h.s.pasaud@gmail.com</td><td>9926139321</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>18</td><td>APP71268634715</td><td>151019</td><td>Govt.H.S.S.Belar</td><td>Fingeshwar</td><td>Fingeshwar</td><td>govthssbelar1997@gmail.com</td><td>9329559199</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>19</td><td>APP71268634776</td><td>22250506506</td><td>Govt Higher Secondary School Panduka</td><td>Chhura</td><td>Gariaband</td><td>govthsspanduka3@gmail.com</td><td>9098437660</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>20</td><td>APP71268634795</td><td>22252608604</td><td>Govt.High School Jhariyabahara</td><td>Mainpur</td><td>gariaband</td><td>schooljhariyabahara@gmail.com</td><td>7974585510</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>21</td><td>APP71268634812</td><td>22251913802</td><td>Govt. Middle School Gujra</td><td>Gariyaband</td><td>GARIYABAND</td><td>middleschoolgujra@gmail.com</td><td>8770789100</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>22</td><td>APP71268634823</td><td>22250504343</td><td>Govt.G.P.D.Boys H.S.School Chhura</td><td>Gariyaband</td><td>Gariyaband</td><td>gbhsschhura@gmail.com</td><td>7354501584</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>23</td><td>APP71268634870</td><td>22252305702</td><td>Govt.Ms Chaubebandha</td><td>Fingeshwar</td><td>GARIYABAND</td><td>govt.mschaubebandha@gmail.com</td><td>9826372919</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>24</td><td>APP71268634901</td><td>22251904346</td><td>Govt.B.H.S.S. Gariaband</td><td>Gariyaband</td><td>GARIABAND</td><td>pboyshsgar@gmail.com</td><td>9424234746</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>25</td><td>APP71268634907</td><td>22252301202</td><td>Gov. Middle School Beltukari</td><td>Fingeshwar</td><td>gariaband</td><td>arunkumar.ishubala.prajapati@gmail.com</td><td>9926146422</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>26</td><td>APP71268634967</td><td>151071</td><td>Govt.H.S.School Pond</td><td>Chhura</td><td>GARIYABAND</td><td>principalpond@gmail.com</td><td>7974017706</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>27</td><td>APP71268635064</td><td>22252301803</td><td>Govt.High School Sonasili</td><td>Fingeshwar</td><td>GARIYABAND</td><td>kk72547@gmail.com</td><td>9009767535</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>28</td><td>APP71268635075</td><td>22252304602</td><td>Govt.Middle School Sindhouri</td><td>Fingeshwar</td><td>GARIYABAND</td><td>govt.m.schoolsindhouri@gmail.com</td><td>7974259396</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>29</td><td>APP71268635117</td><td>&nbsp;</td><td>Govt Higher Secondary School Borid</td><td>Fingeshwar</td><td>GARIYABAND</td><td>kpanchali0621@gmail.com</td><td>9754070013</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>30</td><td>APP71268635191</td><td>22251907702</td><td>Govt. Middle School Madanpur</td><td>Gariyaband</td><td>Gariaband</td><td>nandkumarverma1966@gmail.com</td><td>9406301949</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>31</td><td>APP71268635272</td><td>&nbsp;</td><td>Govt Middle School Sonasili</td><td>Fingeshwar</td><td>GARIYABAND</td><td>govtmssonasili@gmail.com</td><td>9977377970</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>32</td><td>APP71268635303</td><td>22250507020</td><td>Govt.H.S.School Kadama</td><td>Chhura</td><td>GARIABAND</td><td>ghsskhadma@gmail.com</td><td>9827944539</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>33</td><td>APP71268635320</td><td>151117</td><td>Govt. (Rmsa) High School Deharguda</td><td>Mainpur</td><td>Gariaband</td><td>kantisahu182@gmail.com</td><td>9340476481</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>34</td><td>APP71268635328</td><td>22111900712</td><td>Middle School Dhawalpur</td><td>Gariyaband</td><td>GARIYABAND</td><td>devsinha661@gmail.com</td><td>9770951407</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>35</td><td>APP71268635338</td><td>22111907002</td><td>Middle School Dashpur</td><td>Gariyaband</td><td>GARIYABAND</td><td>middleschooldashpur@gmail.com</td><td>9424234520</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>36</td><td>APP71268635373</td><td>22252300702</td><td>Govt Middle School Pasoaud</td><td>Fingeshwar</td><td>GARIYABAND</td><td>narendrayadu271@gmail.com</td><td>9754290930</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>37</td><td>APP71268635414</td><td>22251904906</td><td>GOVT. HIGHER SECONDARY SCHOOL TWD DARRIPARA</td><td>Gariyaband</td><td>GARIABAND</td><td>ghssdarripara141155@gmail.com</td><td>7828612140</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>38</td><td>APP71268635440</td><td>22250502706</td><td>Govt Higher Secondary School Piparchhedi</td><td>Chhura</td><td>Gariyaband</td><td>ghsspiparchhedi@gmail.com</td><td>8319505633</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>39</td><td>APP71268635496</td><td>22250500211</td><td>Govt Higher Secondary School Rasela</td><td>Chhura</td><td>Gariyaband</td><td>ghssrasela@gmail.com</td><td>9407925197</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>40</td><td>APP71268635590</td><td>22251406603</td><td>Govt.Higher Secondry School Khoksara</td><td>Deobhog</td><td>GARIYABAND</td><td>principalkhoksara@gmail.com</td><td>8770347239</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>41</td><td>APP71268635595</td><td>22251910804</td><td>Govt High School Kurrubhata</td><td>Gariyaband</td><td>Gariyaband</td><td>princikurrubhata@gmail.com</td><td>9424218601</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>42</td><td>APP71268635600</td><td>22251904203</td><td>M.S.Piperchhedi</td><td>Gariyaband</td><td>gariaband</td><td>baijnathnetam5@gmail.com</td><td>7694983825</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>43</td><td>APP71268635640</td><td>22250509910</td><td>Govt Higher Secondry School Pendra</td><td>Chhura</td><td>Gariyaband</td><td>mukeshkumardhruw70@gmail.com</td><td>9340618045</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>44</td><td>APP71268635648</td><td>22251911803</td><td>Government Higher Secondry School Bendkura</td><td>Gariyaband</td><td>Gariaband</td><td>atulaloni@yahoo.co.in</td><td>6265611979</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>45</td><td>APP71268635792</td><td>&nbsp;</td><td>Govt.Middle School Baherabuda</td><td>Gariyaband</td><td>GARIABAND</td><td>gmsbaherabuda@gmail.com</td><td>9977533982</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>46</td><td>APP71268635858</td><td>22250509402</td><td>Govt. Middle School Akalwara</td><td>Chhura</td><td>Gariaband</td><td>bhupendrasahu1234@gmail.com</td><td>8959767512</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>47</td><td>APP71268635937</td><td>&nbsp;</td><td>Govt.Higher Secondry School Bindranawagarh</td><td>Gariyaband</td><td>GARIABAND</td><td>principalbindranawagarh@gmail.com</td><td>9343889542</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>48</td><td>APP71268635959</td><td>22251406002</td><td>Govt. High School Jamgaon</td><td>Deobhog</td><td>GARIABAND</td><td>skadeobhog@gmail.com</td><td>9770698846</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>49</td><td>APP71268635991</td><td>22252612202</td><td>Govt.Middle School Bajadi</td><td>Mainpur</td><td>GARIYABAND</td><td>msbajadi2006@gmail.com</td><td>7489841311</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>50</td><td>APP71268636005</td><td>22251912203</td><td>Govt. High School Amadi</td><td>Gariyaband</td><td>gariaband</td><td>govthighschoolamadi@gmail.com</td><td>7869418631</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>51</td><td>APP71268636013</td><td>22251409502</td><td>Govt. Middle School  Magarroda</td><td>Deobhog</td><td>Gariyaband</td><td>hm.msmagarroda@gmail.com</td><td>8103001603</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>52</td><td>APP71268636014</td><td>22251911403</td><td>Govt Middle School Ravandiggi</td><td>Gariyaband</td><td>Gariaband</td><td>msravandiggi@gmail.com</td><td>7587429785</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>53</td><td>APP71268636070</td><td>151031</td><td>Govt. Hr.Secondary School.Basin</td><td>Fingeshwar</td><td>gariyaband</td><td>schoolbasin@gmail.com</td><td>9617723006</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>54</td><td>APP71268636094</td><td>22251921501</td><td>Middle School Tawarbahara</td><td>Gariyaband</td><td>GARIYABAND</td><td>mstanwarbahara@gmail.com</td><td>6265383443</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>55</td><td>APP71268636108</td><td>151107</td><td>Govt. Hss Dhourakot</td><td>Deobhog</td><td>Gariyaband</td><td>dhourakotprincipalhss@gmail.com</td><td>7224940323</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>56</td><td>APP71268636113</td><td>22251914902</td><td>Middle School Garbhantora</td><td>Gariyaband</td><td>GARIYABAND</td><td>msgarbhantora@gmail.com</td><td>9981028940</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>57</td><td>APP71268636130</td><td>22251904345</td><td>Govt.G.H.S.School Gariaband</td><td>Gariyaband</td><td>GARIABAND</td><td>principalggg@gmail.com</td><td>9575126943</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>58</td><td>APP71268636211</td><td>&nbsp;</td><td>Govt H S School Mudgelmal</td><td>Mainpur</td><td>GARIABAND</td><td>ghssmudgelmal@gmail.com</td><td>9303880289</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>59</td><td>APP71268636230</td><td>22251412602</td><td>Government  Higher Secondary School Jhakharpara</td><td>Deobhog</td><td>GARIYABAND</td><td>ghssjhakharpara@gmail.com</td><td>9770698902</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>60</td><td>APP71268636279</td><td>151042</td><td>Govt.Higher Sec.School Teka</td><td>Fingeshwar</td><td>gariaband</td><td>ghssteka@gmail.com</td><td>9669141108</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>61</td><td>APP71268636315</td><td>22252303522</td><td>Govt.T.D.H.S.School Fingeshwar</td><td>Fingeshwar</td><td>GARIABAND</td><td>gtdfingeshwar@gmail.com</td><td>9685692711</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>62</td><td>APP71268636322</td><td>22251905103</td><td>Middile Schoole Pandripani</td><td>Gariyaband</td><td>GARIYABAND</td><td>NEELKANTHYADAV001@gmail.com</td><td>9977897802</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>63</td><td>APP71268636351</td><td>22251913603</td><td>Govt.Middle School Kosambuda</td><td>Gariyaband</td><td>GARIABABD</td><td>mskosambuda@gmail.com</td><td>8889135171</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>64</td><td>APP71268636361</td><td>151093</td><td>Govt. High School Lachkera</td><td>Fingeshwar</td><td>Gariaband</td><td>nirmalkar_mukesh@yahoo.com</td><td>9826779071</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>65</td><td>APP71268636544</td><td>22251913302</td><td>Middle School Nahargaon</td><td>Gariyaband</td><td>GARIYABAND</td><td>msnahargaon@gmail.com</td><td>9009815857</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>66</td><td>APP71268636674</td><td>22250506002</td><td>Govt.Middle School Sarkada</td><td>Chhura</td><td>Gariaband</td><td>mmanshsahu240@gmail.com</td><td>9752047240</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>67</td><td>APP71268636681</td><td>22250508802</td><td>Govt M S Sorid Khurd</td><td>Chhura</td><td>Gariaband</td><td>ishwartandan806@gmail.com</td><td>9669933226</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>68</td><td>APP71268636746</td><td>22110506204</td><td>Govt.Boys Middle School Panduka</td><td>Chhura</td><td>Gariaband</td><td>pushpatiwari415@gmail.com</td><td>9406027045</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>69</td><td>APP71268636759</td><td>22252304402</td><td>Govt. Hr.Sec.School Baronda</td><td>Fingeshwar</td><td>Gariaband</td><td>hssbaronda@gmail.com</td><td>9617326018</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>70</td><td>APP71268636766</td><td>22252304402</td><td>Govt. Middle School Baronda</td><td>Fingeshwar</td><td>Gariyaband</td><td>dhruwck1997@gmail.com</td><td>9826160579</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>71</td><td>APP71268636820</td><td>22251915002</td><td>Middle School Sadak Parsuli</td><td>Gariyaband</td><td>GARIYABAND</td><td>mssadakparsuli@gmail.com</td><td>7697527825</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>72</td><td>APP71268636826</td><td>22251906102</td><td>Middle School Patharmohanda</td><td>Gariyaband</td><td>GARIYABAND</td><td>patharmohanda@gmail.com</td><td>9406048548</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>73</td><td>APP71268636834</td><td>22251901902</td><td>Middle School Fulkarra</td><td>Gariyaband</td><td>GARIYABAND</td><td>msfulkarra@gmail.com</td><td>9669078347</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>74</td><td>APP71268636843</td><td>22251901403</td><td>Middle School Hathbay</td><td>Gariyaband</td><td>GARIYABAND</td><td>mshathbay@gmail.com</td><td>9806976656</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>75</td><td>APP71268636895</td><td>&nbsp;</td><td>Govt.Middle School Kokdi</td><td>Gariyaband</td><td>gariaband</td><td>gmskokdi@gmail.com</td><td>9424218742</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>76</td><td>APP71268636942</td><td>25112302902</td><td>Govt Middle School Naveen Loharsi</td><td>Fingeshwar</td><td>Gariyaband</td><td>bhupendrak2510@gmail.com</td><td>8959850855</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>77</td><td>APP71268636977</td><td>&nbsp;</td><td>Middle School Ghatoud</td><td>Gariyaband</td><td>GARIYABAND</td><td>sanjaysingh661970@gmail.com</td><td>8827920850</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>78</td><td>APP71268636986</td><td>22251914302</td><td>Middle School Bhunjiyamuda</td><td>Gariyaband</td><td>GARIYABAND</td><td>bhunjiyamuda@gmail.com</td><td>9165488199</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>79</td><td>APP71268636998</td><td>22251903102</td><td>Middle School Begarpala</td><td>Gariyaband</td><td>GARIYABAND</td><td>msbegarpala@gmail.com</td><td>9098679265</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>80</td><td>APP71268637028</td><td>22251913002</td><td>Middle School Potiya</td><td>Gariyaband</td><td>GARIYABAND</td><td>mspotiya@gmail.com</td><td>8889767194</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>81</td><td>APP71268637044</td><td>22251916102</td><td>Govt Middle School Bhainsatara</td><td>Gariyaband</td><td>GARIYABAND</td><td>bhainsatara@gmail.com</td><td>8103909271</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>82</td><td>APP71268637059</td><td>22252306402</td><td>Govt. Middle School Lafandi</td><td>Fingeshwar</td><td>Gariaband</td><td>anilmeghwani.am1@gmail.com</td><td>9827606673</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>83</td><td>APP71268637125</td><td>22251910502</td><td>Middle School Kharhari</td><td>Gariyaband</td><td>GARIYABAND</td><td>romlalnishad@gmail.com</td><td>9981236413</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>84</td><td>APP71268637141</td><td>22252300602</td><td>Govt. Middle School Sirrikala</td><td>Fingeshwar</td><td>GARIYABAND</td><td>dkmarkamfingeshwar@gmail.com</td><td>9165388301</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>85</td><td>APP71268637143</td><td>22251912802</td><td>Govt. Middle School Kasabay</td><td>Gariyaband</td><td>Gariyaband</td><td>mskasabay@gmail.com</td><td>9669734785</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>86</td><td>APP71268637153</td><td>22252307502</td><td>Govt.Midele School Pitaiband</td><td>Fingeshwar</td><td>GARIYABAND</td><td>gmspitaiband@gmail.com</td><td>9131525727</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>87</td><td>APP71268637180</td><td>22252303521</td><td>Govt Girl H.S.School Fingeshwar</td><td>Gariyaband</td><td>GARIYABAND</td><td>THANESH313@GMAIL.COM</td><td>9009818247</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>88</td><td>APP71268637248</td><td>22252306002</td><td>G.Middle School Deori</td><td>Fingeshwar</td><td>gariyaband</td><td>pranaydiwan7@gmail.com</td><td>9926479264</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>89</td><td>APP71268637252</td><td>22252306106</td><td>G.Girls Middle School Kaundkera</td><td>Fingeshwar</td><td>gariaband</td><td>youth.rabel@gmail.com</td><td>9753323179</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>90</td><td>APP71268637494</td><td>&nbsp;</td><td>Govt. Middle School Binouri</td><td>Fingeshwar</td><td>Gariaband</td><td>kaminishakar@gmail.com</td><td>9981426068</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>91</td><td>APP71268637500</td><td>22250507302</td><td>Govt Middle School Kothigaon</td><td>Chhura</td><td>gariaband</td><td>vinisahu68@gmail.com</td><td>7898014276</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>92</td><td>APP71268637573</td><td>22252605702</td><td>Govt. Middle School Bhejipadar</td><td>Mainpur</td><td>Gariaband</td><td>thakursonwani2@gmail.com</td><td>9340055898</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>93</td><td>APP71268637596</td><td>1908002</td><td>Goverment Middle School  Limdih</td><td>Gariyaband</td><td>Gariaband</td><td>deendayalmanikpuri9@gmail.com</td><td>9617152114</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>94</td><td>APP71268637599</td><td>222523038206</td><td>Govt High School Ravad</td><td>Fingeshwar</td><td>Gariaband</td><td>yaduchaitanya22@gmail.com</td><td>7869239126</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>95</td><td>APP71268637617</td><td>22250500406</td><td>Govt. H.S. Ghatkarra</td><td>Chhura</td><td>GARIABAND</td><td>deepaknag52@gmail.com</td><td>9826175411</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>96</td><td>APP71268637657</td><td>22251910402</td><td>Govt. Middle School Amagaon</td><td>Gariyaband</td><td>Gariaband</td><td>JOSHIJI1211@gmail.com</td><td>9424118269</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>97</td><td>APP71268637660</td><td>22252615502</td><td>Govt Middle School Golamal</td><td>Mainpur</td><td>GARIYABAND</td><td>dilipsinha448@gmail.com</td><td>7000328103</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>98</td><td>APP71268637670</td><td>1909402</td><td>Govt. Middle School Tendubay</td><td>Gariyaband</td><td>GARIYABAND</td><td>govtmstendubay402@gmail.com</td><td>9926184175</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>99</td><td>APP71268637672</td><td>22252607102</td><td>Govt Middle School Matiya</td><td>Gariyaband</td><td>Gariyaband</td><td>sahukisan908@gmail.com</td><td>9668078892</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>100</td><td>APP71268637696</td><td>22251910302</td><td>Govt Middle School Baghmar</td><td>Gariyaband</td><td>GARIAYABAND</td><td>govtmsbaghmar@gmail.com</td><td>9669029017</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>101</td><td>APP71268637801</td><td>22251912602</td><td>Govt. Middle School Koundkera</td><td>Gariyaband</td><td>Gariaband</td><td>mskoundkera@gmail.com</td><td>7582962803</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>102</td><td>APP71268637816</td><td>22251907904</td><td>Govt. Middle School Dumarbahra</td><td>Gariyaband</td><td>Gariyaband</td><td>ajitakc9@gmail.com</td><td>9754149031</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>103</td><td>APP71268637828</td><td>22251900902</td><td>Goverment Middle School Litipara</td><td>Gariyaband</td><td>Gariaband</td><td>rameshthakur750.rt@gmail.com</td><td>8718868398</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>104</td><td>APP71268637836</td><td>22252308602</td><td>Govt. Middle School Chaitara</td><td>Fingeshwar</td><td>GARIYABAND</td><td>vinodsahu0104@gmail.com</td><td>9926838149</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>105</td><td>APP71268637865</td><td>CGM2523G025</td><td>Govt Middle School Kuruskera</td><td>Fingeshwar</td><td>gariyaband</td><td>mskuruskera6@gmail.com</td><td>9301914394</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>106</td><td>APP71268637868</td><td>22251903602</td><td>Govt Middle School Jhalkhamhar</td><td>Gariyaband</td><td>Gariyaband</td><td>msjhalkhamhar@gmail.com</td><td>7879060433</td><td>1</td>
+		</tr><tr class="textmode">
+			<td>107</td><td>APP71268637874</td><td>22251910804</td><td>Govt. Middle School Khatti</td><td>Gariyaband</td><td>Gariyaband</td><td>mskhatti2005@gmail.com</td><td>9406048221</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>108</td><td>APP71268637988</td><td>22252612102</td><td>Govt Middle School Salhebhatha</td><td>Mainpur</td><td>GARIYABAND</td><td>ykssahukunu@gmail.com</td><td>9907030875</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>109</td><td>APP71268637994</td><td>&nbsp;</td><td>Govt Middle School Kandsar</td><td>Mainpur</td><td>gariaband</td><td>Pintug180@gmail.com</td><td>8770728772</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>110</td><td>APP71268638061</td><td>22251901602</td><td>Middle School Semhara</td><td>Gariyaband</td><td>GARIYABAND</td><td>mssemhara@gmail.com</td><td>9425539313</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>111</td><td>APP71268638085</td><td>22251912502</td><td>Govt. Middle School Sadhouli</td><td>Gariyaband</td><td>Gariyaband</td><td>mssadhouli@gmail.com</td><td>9977873140</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>112</td><td>APP71268638089</td><td>22251401502</td><td>Govt.Middil School Suklibhata Puran  (Ssa)</td><td>Deobhog</td><td>Gariaband</td><td>harendra1967singh@gmail.com</td><td>7000189371</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>113</td><td>APP71268638095</td><td>22251907202</td><td>Govt. Middle School Chingarmal</td><td>Gariyaband</td><td>GARIYABAND</td><td>mschingarmal@gmail.com</td><td>9165620754</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>114</td><td>APP71268638146</td><td>22251923101</td><td>Govt. Middle School Paragaon</td><td>Gariyaband</td><td>Gariyaband</td><td>msparagaon2005@gmail.com</td><td>9009814157</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>115</td><td>APP71268638147</td><td>22251404302</td><td>Govt M.S. Supebeda</td><td>Deobhog</td><td>Gariaband</td><td>hemlalnagesh.hn@gmail.com</td><td>8319942601</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>116</td><td>APP71268638175</td><td>22251908902</td><td>Middle School Barbahara</td><td>Gariyaband</td><td>GARIYABAND</td><td>msbarbahara@gmail.com</td><td>9993337717</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>117</td><td>APP71268638183</td><td>22252607402</td><td>M.S.Gopalpur</td><td>Mainpur</td><td>GARIABAND</td><td>sahumahabir9@gmail.com</td><td>9993800171</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>118</td><td>APP71268638195</td><td>22251911802</td><td>Govt. Middle School Bendkura</td><td>Gariyaband</td><td>GARIYABAND</td><td>msbendkura@gmail.com</td><td>9981285750</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>119</td><td>APP71268638197</td><td>22251913402</td><td>Gov. Middle School Marouda</td><td>Gariyaband</td><td>Gariyaband</td><td>msmarouda1982@gmail.com</td><td>9617196234</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>120</td><td>APP71268638204</td><td>22251914703</td><td>Govt. Middle School Kantidadar</td><td>Gariyaband</td><td>GARIYABAND</td><td>gmskantidadar2005@gmail.com</td><td>8435453118</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>121</td><td>APP71268638216</td><td>22251904903</td><td>Govt. Middle School Darripara</td><td>Gariyaband</td><td>GARIYABAND</td><td>hmmsdarripara@gmail.com</td><td>9424234141</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>122</td><td>APP71268638219</td><td>22251906702</td><td>Middle School Jaitpuri</td><td>Gariyaband</td><td>GARIYABAND</td><td>msjaitpuri49@gmail.com</td><td>9425525924</td><td>1</td>
+		</tr><tr class="textmode">
+			<td>123</td><td>APP71268638256</td><td>22251903202</td><td>Govt. Middle School Mohada</td><td>Gariyaband</td><td>GARIYABAND</td><td>msmohada@gmail.com</td><td>9644692494</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>124</td><td>APP71268638260</td><td>22251917802</td><td>Govt.M S Bokramuda</td><td>Gariyaband</td><td>GARIABAND</td><td>kmpatel15966@gmail.com</td><td>8889767368</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>125</td><td>APP71268638427</td><td>22250506602</td><td>Govt. Middle School Rajankata</td><td>Chhura</td><td>GARIYABAND</td><td>middleschoolrajankata@gmail.com</td><td>9630658881</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>126</td><td>APP71268638455</td><td>22250511903</td><td>Govt. Middle School Kurud</td><td>Chhura</td><td>GARIYABAND</td><td>middleschoolkurud@gmail.com</td><td>9424218575</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>127</td><td>APP71268638485</td><td>22252302803</td><td>Govt. Middle School Dhursa</td><td>Fingeshwar</td><td>GARIYABAND</td><td>asharamsahu246@gmail.com</td><td>7389428598</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>128</td><td>APP71268638495</td><td>22252608602</td><td>Govt. Middle School Jhariyabahara</td><td>Mainpur</td><td>GARIABAND</td><td>santoshmande9324@gmail.com</td><td>7389428215</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>129</td><td>APP71268638542</td><td>22252610403</td><td>Govt High School Garhadih</td><td>Mainpur</td><td>GARIYABAND</td><td>bhumikamainpur@gmail.com</td><td>6265495950</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>130</td><td>APP71268638612</td><td>22252612003</td><td>Govt Middle School Tuhameta</td><td>Mainpur</td><td>GARIYABAND</td><td>headmaster.tuhameta@gmail.com</td><td>8319823942</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>131</td><td>APP71268638685</td><td>22252305002</td><td>Govt. Middle School Rajkatthi</td><td>Fingeshwar</td><td>GARIYABAND</td><td>wilsonghrit.23@gmail.com</td><td>7067824692</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>132</td><td>APP71268638775</td><td>151120</td><td>Govt. High. School Tarighat</td><td>Fingeshwar</td><td>GARIABAND</td><td>jlsahu3010@gmail.com</td><td>9098128275</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>133</td><td>APP71268638829</td><td>&nbsp;</td><td>Govt. Middle School Tarighat</td><td>Fingeshwar</td><td>GARIABAND</td><td>jksahu1207@gmail.com</td><td>7697576429</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>134</td><td>APP71268638854</td><td>22252602702</td><td>Govt. Middle School Gaurghat</td><td>Mainpur</td><td>Gariaband</td><td>mr.vikash1_sahu@rediffmail.com</td><td>9589984442</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>135</td><td>APP71268638875</td><td>22250509618</td><td>Govt Middle School Mudagaon</td><td>Chhura</td><td>GARIYABAND</td><td>omsingdhruw@gmail.com</td><td>9630564132</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>136</td><td>APP71268638964</td><td>22252611003</td><td>Govt. Middle School  Chalnapadar</td><td>Mainpur</td><td>Gariaband</td><td>subhashchandrajoshi7@gmail.com</td><td>7000062475</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>137</td><td>APP71268639105</td><td>22252302904</td><td>Govt. M.S. Loharsi</td><td>Fingeshwar</td><td>GARIYABAND</td><td>yoge975453@gmail.com</td><td>9755311540</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>138</td><td>APP71268639123</td><td>22252610205</td><td>SWAMI ATMANAND GOVT. ENGLISH MEDIUM SCHOOL MAINPUR</td><td>Mainpur</td><td>GARIABAND</td><td>saems.mainpur@gmail.com</td><td>9752740459</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>139</td><td>APP71268639150</td><td>22252617002</td><td>Govt Middle School Kokadimal</td><td>Mainpur</td><td>gariaband</td><td>sanjaylahare500@gmail.com</td><td>7489515476</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>140</td><td>APP71268639244</td><td>22251915803</td><td>Govt. Middle School Mohalai</td><td>Gariyaband</td><td>Gariyaband</td><td>msmohalai2005@gmail.com</td><td>7000859279</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>141</td><td>APP71268639247</td><td>22252613602</td><td>Govt.Middle School Dabnai</td><td>Mainpur</td><td>GARIYABAND</td><td>msdabnai@gmail.com</td><td>7489647001</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>142</td><td>APP71268639317</td><td>22252612502</td><td>Govt. Middle School Kekrajor</td><td>Mainpur</td><td>Gariaband</td><td>nandkumardiwan6@gmail.com</td><td>9301792737</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>143</td><td>APP71268639363</td><td>22251911202</td><td>Govt. Middle School Khursipar</td><td>Gariyaband</td><td>GARIYABAND</td><td>mskhhursipar@gmail.com</td><td>9993889921</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>144</td><td>APP71268639456</td><td>151067</td><td>G.H.S.S. Kosmi</td><td>Chhura</td><td>raipur</td><td>ghsskosmi@gmail.com</td><td>9691440222</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>145</td><td>APP71268639494</td><td>22252604102</td><td>Govt Middle School Madangmuda</td><td>Mainpur</td><td>GARIYABAND</td><td>toshan.som1985@gmail.com</td><td>9303788260</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>146</td><td>APP71268639517</td><td>22252307802</td><td>Govt. Middle School Mudtarai</td><td>Fingeshwar</td><td>GARIABAND</td><td>rupesh.verma1106@gmail.com</td><td>9977247238</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>147</td><td>APP71268639756</td><td>22252600102</td><td>Govt Middle School Latapara</td><td>Mainpur</td><td>gariaband</td><td>bchouhan976@gmail.com</td><td>9827072069</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>148</td><td>APP71268639883</td><td>151050</td><td>Govt. Higher Secondary School Parsadakala</td><td>Fingeshwar</td><td>GARIABAND</td><td>govt.hssparsada151050@gmail.com</td><td>8982286020</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>149</td><td>APP71268639900</td><td>22252303202</td><td>Govt Middle School Sarkada</td><td>Fingeshwar</td><td>Gariaband</td><td>sahu_santosh@live.com</td><td>9575947989</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>150</td><td>APP71268639918</td><td>22252607902</td><td>M.S. Kairmal</td><td>Mainpur</td><td>gariyaband</td><td>yugalgour@gmail.com</td><td>9981677640</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>151</td><td>APP71268639982</td><td>22112608503</td><td>Govt Middle School Mainpurkala</td><td>Gariyaband</td><td>GARIYABAND</td><td>headmaster.mainpurkala@gmail.com</td><td>9827472602</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>152</td><td>APP71268640097</td><td>22250517002</td><td>Govt. Middle School Murmura</td><td>Chhura</td><td>GARIYABAND</td><td>sinhaprakash04@gmail.com</td><td>9752322306</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>153</td><td>APP71268640389</td><td>22252613202</td><td>MS JADAPADAR</td><td>Mainpur</td><td>GARIABAND</td><td>vipinbiharived12085@gmail.com</td><td>7725032225</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>154</td><td>APP71268640406</td><td>UDISECODE22250512013</td><td>Govt M.S. Atarmara</td><td>Chhura</td><td>GARIABAND</td><td>hemantkumarvish2016@gmail.com</td><td>9977499375</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>155</td><td>APP71268640420</td><td>22251400702</td><td>Govt. M.S. Gangrajpur (Ssa)</td><td>Deobhog</td><td>GARIABAND</td><td>dharmu1974nagesh@gmail.com</td><td>9770576574</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>156</td><td>APP71268640443</td><td>22251915102</td><td>Govt. Middle School Hasauda</td><td>Gariyaband</td><td>Gariyaband</td><td>mshasauda@gmail.com</td><td>8770254180</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>157</td><td>APP71268640463</td><td>22252307102</td><td>Govt. Middle School Charbhatti</td><td>Fingeshwar</td><td>GARIYABAND</td><td>ganeshramdhruw102@gmail.com</td><td>9993425521</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>158</td><td>APP71268640792</td><td>&nbsp;</td><td>Govt Middle School Gariba</td><td>Mainpur</td><td>GARIYABAND</td><td>headmaster.gariba@gmail.com</td><td>8456067531</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>159</td><td>APP71268640807</td><td>22252308502</td><td>Govt. Middle School Roba</td><td>Gariyaband</td><td>GARIYABAND</td><td>govtmsroba09@gmail.com</td><td>8602363237</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>160</td><td>APP71268640815</td><td>22112626301</td><td>Govt Middle School Kosammuda</td><td>Mainpur</td><td>gariaband</td><td>mskosammuda@gmail.com</td><td>7828617757</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>161</td><td>APP71268640926</td><td>22250512008</td><td>Govt Middle School Gadaghat</td><td>Chhura</td><td>Gariyaband</td><td>hemlalsahu99931@gmail.com</td><td>9755859821</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>162</td><td>APP71268641320</td><td>22252302302</td><td>Govt. Middle School Kosamkhuta</td><td>Fingeshwar</td><td>GARIYABAND</td><td>sushildiwan03@gmail.com</td><td>9993731210</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>163</td><td>APP71268641657</td><td>22251400602</td><td>Govt H.S. Girsul</td><td>Deobhog</td><td>GARIABAND</td><td>hsgirsul@gmail.com</td><td>7999816021</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>164</td><td>APP71268643438</td><td>22250512802</td><td>Gove.M.S.Dadargaon Naya</td><td>Chhura</td><td>Gariaband</td><td>mitthuramsahu328@gmail.com</td><td>9893028184</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>165</td><td>APP71268644238</td><td>22250506912</td><td>Ms Bodrabandha....B</td><td>Chhura</td><td>gariaband</td><td>mrtandan68@gmail.com</td><td>9993390124</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>166</td><td>APP71268644487</td><td>22250503103</td><td>Govt Middle School Dadargaon Purana</td><td>Chhura</td><td>gariaband</td><td>guptadayalsaheb@gmail.com</td><td>9755922322</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>167</td><td>APP71268645404</td><td>22252301502</td><td>Govt.Middle School Bodki</td><td>Fingeshwar</td><td>GARIYABAND</td><td>yadavbhojram8@gmail.com</td><td>9669481262</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>168</td><td>APP71268646623</td><td>&nbsp;</td><td>Govt Middle School Mudamahan</td><td>Mainpur</td><td>gariaband</td><td>pahadiyaramji074@gmail.com</td><td>7000844113</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>169</td><td>APP71268646912</td><td>151096</td><td>Govt.High School Ghutku Nawapara</td><td>Gariyaband</td><td>GARIABAND</td><td>highschoolghutkunawapara@gmail.com</td><td>9340713872</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>170</td><td>APP71268647254</td><td>&nbsp;</td><td>Govt. H. School Bakali</td><td>Fingeshwar</td><td>GARIYABAND</td><td>pracharya.gov.h.bakli@gmail.com</td><td>9752989691</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>171</td><td>APP71268647670</td><td>22252310605</td><td>New Govt. Middle School Kashipara Jenjra</td><td>Fingeshwar</td><td>GARIABAND</td><td>laxmandewangan1973@gmail.com</td><td>8770930257</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>172</td><td>APP71268647866</td><td>&nbsp;</td><td>Govt Middle School Saraipani</td><td>Mainpur</td><td>gariaband</td><td>ganpatsinha900@gmail.com</td><td>9301958789</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>173</td><td>APP71268648790</td><td>22250509314</td><td>Govt Middle School Nawapara( Kosami)</td><td>Chhura</td><td>gariyaband</td><td>pileshwarsahu957@gmail.com</td><td>9179357656</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>174</td><td>APP71268648843</td><td>22251908702</td><td>Govt.Middile School Mardakala</td><td>Gariyaband</td><td>Gariyaband</td><td>msmardakala@gmail.com</td><td>8966894752</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>175</td><td>APP71268648904</td><td>&nbsp;</td><td>Govt. M S Chhaildongri</td><td>Mainpur</td><td>Gariyaband</td><td>sahu75518@gmail.com</td><td>9300932409</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>176</td><td>APP71268649611</td><td>22250509302</td><td>Ms Kosmi</td><td>Chhura</td><td>gariaband</td><td>sanadkumar510@gmail.com</td><td>9753717394</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>177</td><td>APP71268649686</td><td>22252310502</td><td>Govt. M. S. Raveli</td><td>Fingeshwar</td><td>Gariyaband</td><td>jaikumarnagwanshi@gmail.com</td><td>9981258475</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>178</td><td>APP71268649753</td><td>22251406305</td><td>Govt.M.S. Suklibhata (N) (Ssa)</td><td>Deobhog</td><td>GARIABAND</td><td>sukalibhathanavinms@gmail.com</td><td>7077897844</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>179</td><td>APP71268650499</td><td>22251908702</td><td>Govt. High School Mardakala</td><td>Gariyaband</td><td>Gariyaband</td><td>hsmardakala@gmail.com</td><td>7987196129</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>180</td><td>APP71268650696</td><td>&nbsp;</td><td>Govt. Hr.Sec.School  Fulkarra</td><td>Gariyaband</td><td>GARIABAND</td><td>hssfulkarra@gmail.com</td><td>9111235913</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>181</td><td>APP71268651813</td><td>22112302904</td><td>Govt.Hr.Secondary School Loharsi</td><td>Fingeshwar</td><td>gariyaband</td><td>aman1112pihu76@gmail.com</td><td>9685535779</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>182</td><td>APP71268652234</td><td>22112608702</td><td>Govt Middle School Themli</td><td>Mainpur</td><td>GARIABAND</td><td>mrakshaysahu79@gmail.com</td><td>7566508626</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>183</td><td>APP71268652868</td><td>22252300802</td><td>Govt Middle School Bhasera</td><td>Fingeshwar</td><td>gariyaband</td><td>msbhasera@gmail.com</td><td>8225916548</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>184</td><td>APP71268653813</td><td>22252610602</td><td>Govt M.S. Kokdi</td><td>Mainpur</td><td>gariaband</td><td>rameshmarkam15051972@gmail.com</td><td>7489777174</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>185</td><td>APP71268654916</td><td>&nbsp;</td><td>Govt.Middle School Gaurgaon</td><td>Mainpur</td><td>gariaband</td><td>prmlal982@gmail.com</td><td>9165514216</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>186</td><td>APP71268655499</td><td>22251403002</td><td>Govt.M.S. Usripani (Ssa)</td><td>Deobhog</td><td>GARIABAND</td><td>usripanims@gmail.com</td><td>6370196740</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>187</td><td>APP71268656163</td><td>22252610903</td><td>Govt. Middle School Jhargoan</td><td>Mainpur</td><td>Gariaband</td><td>tekramsahu1980@gmail.com</td><td>9303626289</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>188</td><td>APP71268656722</td><td>22250509607</td><td>Govt.Girls M.S Ranipartewa</td><td>Chhura</td><td>gariaband</td><td>sahudharam398@gmail.com</td><td>9893886024</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>189</td><td>APP71268658178</td><td>22250504108</td><td>Govt.Middle School Jamli</td><td>Chhura</td><td>gariyaband</td><td>salikdhruw222@gmail.com</td><td>9753226030</td><td>1</td>
+		</tr><tr class="textmode">
+			<td>190</td><td>APP71268661645</td><td>22250500903</td><td>Ms Hirabatar</td><td>Chhura</td><td>gariaband</td><td>sahu.luck85@gmail.com</td><td>7049642489</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>191</td><td>APP71268662296</td><td>22252310102</td><td>Govt. Middle School Barbhatha</td><td>Fingeshwar</td><td>GARIABAND</td><td>gmsbarbhatha@gmail.com</td><td>9754149847</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>192</td><td>APP71268662837</td><td>22250506102</td><td>Govt. Middle School Taurenga</td><td>Chhura</td><td>GARIYABAND</td><td>dugendrasahu.ds@gmail.com</td><td>9589875650</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>193</td><td>APP71268664271</td><td>22252309903</td><td>Middle School Tarra</td><td>Fingeshwar</td><td>gariyaband</td><td>mstarra20@gmail.com</td><td>9329636128</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>194</td><td>APP71268664685</td><td>22252300307</td><td>Govt Middle School Fokatpara Kirwai</td><td>Fingeshwar</td><td>GARIYABAND</td><td>dineshwarsahu.rajim@gmail.com</td><td>9826540138</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>195</td><td>APP71268669138</td><td>22250507608</td><td>Hs Lohjhar</td><td>Chhura</td><td>GARIYABAND</td><td>POSHANLAL14@GMAIL.COM</td><td>8269630825</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>196</td><td>APP71268670147</td><td>22110504203</td><td>Ms Darripara</td><td>Chhura</td><td>GARIYABAND</td><td>msdarripara1990@gmail.com</td><td>9516793591</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>197</td><td>APP71268670734</td><td>22251402402</td><td>Govt.M.S.Karchiya (Ssa)</td><td>Deobhog</td><td>GARIABAND</td><td>harishchandrayadaw480@gmail.com</td><td>8319695017</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>198</td><td>APP71268670885</td><td>22251407102</td><td>Govt.M.S. Kumhdaikala Ssa()</td><td>Deobhog</td><td>GARIABAND</td><td>sudrasinghmarkam@gmail.com</td><td>8305867508</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>199</td><td>APP71268670921</td><td>22250504703</td><td>Ms Piprahi</td><td>Chhura</td><td>GARIABAND</td><td>poonamsony077@gmail.com</td><td>9754133294</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>200</td><td>APP71268672178</td><td>22252308302</td><td>Govt. Middle School Parsada Joshi</td><td>Fingeshwar</td><td>GARIABAND</td><td>gopalramkansari4933@gmail.com</td><td>9977805774</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>201</td><td>APP71268676424</td><td>22250512009</td><td>Govt. Middle School Fuljhar</td><td>Chhura</td><td>GARIYABAND</td><td>msfuljhar99@gmail.com</td><td>9754943603</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>202</td><td>APP71268678880</td><td>22252608803</td><td>Govt High School Bargaon</td><td>Mainpur</td><td>GARIYABAND</td><td>thakurposhan33@gmail.com </td><td>7974119536</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>203</td><td>APP71268679424</td><td>22252612805</td><td>Govt Higher Secondary School Indagaon</td><td>Mainpur</td><td>GARIYABAND</td><td>principal.indagaon@gmail.com</td><td>9827873513</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>204</td><td>APP71268683768</td><td>22250509907</td><td>Ms Kamraj</td><td>Chhura</td><td>gariaband</td><td>mskamraj05@gmail.com</td><td>8602729652</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>205</td><td>APP71268685260</td><td>22252300203</td><td>Gov. Middle School Dhamni</td><td>Fingeshwar</td><td>gariyaband</td><td>msdhamni79@gmail.com</td><td>7247389979</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>206</td><td>APP71268716085</td><td>22252302602</td><td>Govt. Middle School Bakali</td><td>Fingeshwar</td><td>GARIABAND</td><td>rssahu456@gmail.com</td><td>7587147075</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>207</td><td>APP71268726991</td><td>22252303702</td><td>Govt Middle School Pokhara</td><td>Fingeshwar</td><td>Gariaband</td><td>onkarsharma8473@gmail.com</td><td>9826773482</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>208</td><td>APP71268759662</td><td>22250503403</td><td>Govt. Middle School Hardi(Chhura)</td><td>Chhura</td><td>Gariyaband</td><td>990pankajsukheshwar@gmail.com</td><td>9907990426</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>209</td><td>APP71268760074</td><td>&nbsp;</td><td>Govt. Middle School. Teka</td><td>Fingeshwar</td><td>Gariaband</td><td>crdhruw03@gmail.com</td><td>7987882334</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>210</td><td>APP71268773473</td><td>22252310902</td><td>Govt.Ms.Hathkhoj</td><td>Fingeshwar</td><td>gariyaband</td><td>gopalrjvm1985@gmail.com</td><td>9301088837</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>211</td><td>APP71268775901</td><td>22252607403</td><td>Govt H Schoool Rmsa Gopalpur</td><td>Mainpur</td><td>Gariyaband</td><td>khileshcomputer0@gmail.com</td><td>9754015181</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>212</td><td>APP71268781153</td><td>CHHATTISGARH</td><td>Govt. Girls H.S.S- Gariaband</td><td>Gariyaband</td><td>gariaband</td><td>ranjanaparihar68@gmail.com</td><td>9425525922</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>213</td><td>APP71268783332</td><td>22252603105</td><td>Govt. High School Burjabahal</td><td>Mainpur</td><td>GARIYABAND</td><td>kheersinghn@gmail.com</td><td>7000242793</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>214</td><td>APP71268788755</td><td>22251913103</td><td>Govt Middle School Kochway</td><td>Gariyaband</td><td>Gariyaband</td><td>DIPAKSAHU1810@gmail.com</td><td>9424234630</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>215</td><td>APP71268792230</td><td>22251904313</td><td>Angels Anglo High School Gariaband</td><td>Gariyaband</td><td>GARIABAND</td><td>angelsanglo2004@gmail.com</td><td>9981298964</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>216</td><td>APP71268797281</td><td>22250512703</td><td>Govt Middle School Naginbahra</td><td>Chhura</td><td>Gariaband</td><td>LAHRI5161@gmail.com</td><td>8319984736</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>217</td><td>APP71268797311</td><td>22252627003</td><td>Govt. H.S.S Dhuruwagudi</td><td>Mainpur</td><td>GARIYABAND</td><td>motijaikomarra@gmail.com</td><td>7879702342</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>218</td><td>APP71268797382</td><td>22250509204</td><td>Govt.Middle School Amethi</td><td>Chhura</td><td>Gariyaband</td><td>www.kisanlalbaghel9926852819@gmail.com</td><td>9340893220</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>219</td><td>APP71268798189</td><td>22252305303</td><td>Govt. High School Gunderdehi</td><td>Fingeshwar</td><td>Gariyaband</td><td>highscgdehi@gmail.com</td><td>9753561489</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>220</td><td>APP71268799518</td><td>22250506205</td><td>Govt. Girl Middle School Panduka</td><td>Chhura</td><td>Gariyaband</td><td>gmspanduka1981@gmail.com</td><td>9685204223</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>221</td><td>APP71268800581</td><td>22252308205</td><td>Govt.Middle School Ravad</td><td>Fingeshwar</td><td>Gariaband</td><td>narendrapurre.com@gmail.com</td><td>9630945663</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>222</td><td>APP71268801178</td><td>22250509622</td><td>Govt Middle School Bamhani</td><td>Chhura</td><td>Gariyaband</td><td>khohanlalsuryavanshi@gmail.com</td><td>7987669160</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>223</td><td>APP71268801520</td><td>22250508702</td><td>Govt. Middle School Paktiya</td><td>Chhura</td><td>Gariaband</td><td>gurudevbhasker@gmail.com</td><td>9752604523</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>224</td><td>APP71268801784</td><td>22250517004</td><td>Govt. Hr.Sec.School Murmura</td><td>Chhura</td><td>Gariyaband</td><td>rudrayadav9993@gmail.com</td><td>9981145465</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>225</td><td>APP71268801791</td><td>22250500303</td><td>Govt. Middle School Kutena</td><td>Chhura</td><td>Gariaband</td><td>tomansahu886@gmail.com</td><td>9753925502</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>226</td><td>APP71268802083</td><td>22251901705</td><td>Govt. High School Hardi</td><td>Gariyaband</td><td>gariyaband</td><td>umeshyadu34@gmail.com</td><td>9424234147</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>227</td><td>APP71268802135</td><td>22250507603</td><td>Govt. Middle School Lohjhar</td><td>Chhura</td><td>Gariaband</td><td>meenu2368555@gmail.com</td><td>9669477155</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>228</td><td>APP71268802293</td><td>22250508704</td><td>Govt. High School Panktiya</td><td>Chhura</td><td>gariyaband</td><td>yadav.pankaj980@gmail.com</td><td>9993923609</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>229</td><td>APP71268802314</td><td>22250513802</td><td>Govt.M.S.Madeli</td><td>Chhura</td><td>GARIABAND</td><td>hemuramsahu99@gmail.com</td><td>6265174362</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>230</td><td>APP71268803047</td><td>22250515802</td><td>Govt M.S.School Matarbahara</td><td>Chhura</td><td>gariabanad</td><td>ramgopalnagwanshi0@gmail.com</td><td>8718058658</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>231</td><td>APP71268803150</td><td>22252612204</td><td>Govt Hs Bajadi</td><td>Mainpur</td><td>GARIYABAND</td><td>ishwarsinghchauhan112@gmail.com</td><td>7489841311</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>232</td><td>APP71268803507</td><td>22250504403</td><td>Govt.Middle School Kanesar</td><td>Chhura</td><td>Gariaband</td><td>ssahuji7@gmail.com</td><td>9131729983</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>233</td><td>APP71268803755</td><td>&nbsp;</td><td>Govt. M.S. Dharnidhoda</td><td>Mainpur</td><td>GARIYABAND</td><td>annumanoj2003@gmail.com</td><td>9340938420</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>234</td><td>APP71268804298</td><td>22252603106</td><td>Govt. St Boys Aashram Middle School Burjabahal</td><td>Mainpur</td><td>GARIYABAND</td><td>chandrashekharnagesh4550@gmail.com</td><td>9303257274</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>235</td><td>APP71268804817</td><td>22252301312</td><td>Govt.Higher Secondari School Kopra</td><td>Fingeshwar</td><td>Gariaband</td><td>vandita.010417@gmail.com</td><td>9827980572</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>236</td><td>APP71268805434</td><td>22251408504</td><td>Govt. Rmsa Highschool Barbahali</td><td>Deobhog</td><td>Gariaband</td><td>tikendranag15@gmail.com</td><td>9131329017</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>237</td><td>APP71268805818</td><td>22252606009</td><td>Govt. High School Kharipathra</td><td>Mainpur</td><td>GARIYABAND</td><td>rathiapk143@gmail.com</td><td>8889349409</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>238</td><td>APP71268805940</td><td>22251408502</td><td>Govt Middle School Barbahali</td><td>Deobhog</td><td>Gariaband</td><td>atprmsahs504@gmail.com</td><td>7974946091</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>239</td><td>APP71268806820</td><td>22252600604</td><td>Middle School Urmal</td><td>Mainpur</td><td>GARIABAND</td><td>jayatul74@gmail.com</td><td>6260198381</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>240</td><td>APP71268806958</td><td>22250509902</td><td>Govt.Ms Pendra</td><td>Chhura</td><td>GARIYABAND</td><td>puskarsahu8617@gmail.com</td><td>9340423932</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>241</td><td>APP71268807385</td><td>151142</td><td>Govt High School Kothigoan</td><td>Chhura</td><td>gariyaband</td><td>govt.hskothigoan@gmail.com</td><td>9755137389</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>242</td><td>APP71268807834</td><td>2225050500405</td><td>Govt Middle School Ghatakarra</td><td>Chhura</td><td>Gariaband</td><td>tikeshwarsahu27071988@gmail.com</td><td>9926636344</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>243</td><td>APP71268807902</td><td>22251408003</td><td>Got. Middle School Kadalimuda Ssa</td><td>Deobhog</td><td>Gariaband</td><td>shrikantt59@gmail.com</td><td>9691348020</td><td>1</td>
+		</tr><tr class="textmode">
+			<td>244</td><td>APP71268809148</td><td>222502506914</td><td>Govt.M.S.Khudiyadih</td><td>Chhura</td><td>Gariyaband</td><td>chandrabhanuverma4@gmail.com</td><td>9009201840</td><td>1</td>
+		</tr><tr class="textmode">
+			<td>245</td><td>APP71268810609</td><td>151094</td><td>Govt. H S Joba</td><td>Gariyaband</td><td>Gariyaband</td><td>ghssjoba@gmail.com</td><td>9179800645</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>246</td><td>APP71268811289</td><td>22250506215</td><td>Govt Middle School Kugda</td><td>Chhura</td><td>gariaband</td><td>rameshkumaryadu213@gmail.com</td><td>7354504577</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>247</td><td>APP71268811335</td><td>22251406602</td><td>M.S.Khoksara</td><td>Deobhog</td><td>Gariaband</td><td>govtupskhoksara1961@gmail.com</td><td>9131147012</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>248</td><td>APP71268811424</td><td>22252306602</td><td>Govt. Middle School Partewa</td><td>Fingeshwar</td><td>Gariaband</td><td>rupnarayan91316@gmail.com</td><td>8839562099</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>249</td><td>APP71268811521</td><td>22251915202</td><td>Gms Tuiyanmuda</td><td>Gariyaband</td><td>GARIABAND</td><td>WWW.DEEPAKDEWANGAN000@GMAIL.COM</td><td>7828217784</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>250</td><td>APP71268811666</td><td>&nbsp;</td><td>Gnms Baruka</td><td>Gariyaband</td><td>GARIABAND</td><td>msbaruka99@gmail.com</td><td>9893200620</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>251</td><td>APP71268812323</td><td>22252300507</td><td>GOVT. H. S. SCHOOL BIJALI</td><td>Fingeshwar</td><td>GARIYABAND</td><td>principalhssbijali@gmail.com</td><td>9926644746</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>252</td><td>APP71268812542</td><td>22251903706</td><td>Springboard Public School Sohagpur Gariaband</td><td>Gariyaband</td><td>Gariaband</td><td>springboardps@gmail.com</td><td>7000866262</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>253</td><td>APP71268812866</td><td>CHATTISGARH</td><td>Vyas Public School Panduka</td><td>Chhura</td><td>GARIYABAND</td><td>vyaspublicschoolpanduka@gmail.com</td><td>9575794071</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>254</td><td>APP71268813232</td><td>22251901702</td><td>Govt Middle School Hardi</td><td>Gariyaband</td><td>Gariyaband</td><td>bhuaryakhushal00@gmail.com</td><td>9399107765</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>255</td><td>APP71268813421</td><td>22252612403</td><td>Govt. High School Kandekela</td><td>Mainpur</td><td>GARIYABAND</td><td>vlbhensle@gmail.com</td><td>9131656248</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>256</td><td>APP71268813741</td><td>22251901304</td><td>Gms Nawagarh</td><td>Gariyaband</td><td>Gariyaband</td><td>Anitasinghrajput612@gmail.com</td><td>9826440554</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>257</td><td>APP71268814957</td><td>22250500102</td><td>Govt Hss Patseoni</td><td>Chhura</td><td>Gariaband</td><td>tilak.sahu@rediffmail.com</td><td>9993175601</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>258</td><td>APP71268814967</td><td>22250503704</td><td>Govt.H.S.S Seoni</td><td>Chhura</td><td>GARIYABAND</td><td>heemanshu123@gmail.com</td><td>9340393272</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>259</td><td>APP71268815385</td><td>22251902302</td><td>Govt. Ms Barula</td><td>Gariyaband</td><td>Gariyaband</td><td>santrampande2@gmai.com</td><td>6264570645</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>260</td><td>APP71268815543</td><td>22251913502</td><td>Govt Middle School Kosmi B</td><td>Gariyaband</td><td>Gariyaband</td><td>tomansahu264@gmail.com</td><td>7987716899</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>261</td><td>APP71268815679</td><td>22252302404</td><td>Govt.H.S.S.Sendar</td><td>Fingeshwar</td><td>GARIABAND</td><td>yogeshpatel069@gmail.com</td><td>9617838181</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>262</td><td>APP71268816223</td><td>22252600504</td><td>Govt Hss Tetalkhuti</td><td>Mainpur</td><td>GARIYABAND</td><td>sumitkumardhivar90@gmail.com</td><td>8234943374</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>263</td><td>APP71268816362</td><td>22250509705</td><td>Govt. high school Sankara</td><td>Chhura</td><td>Gariyaband</td><td>kundan.rajim@gmail.com</td><td>7470393616</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>264</td><td>APP71268816585</td><td>22252301902</td><td>Govt Middle School Lachkera</td><td>Fingeshwar</td><td>Gariyaband</td><td>santos.tiwari1@gmail.com</td><td>9755862589</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>265</td><td>APP71268816724</td><td>22250509003</td><td>Govt Middle School Sajapali</td><td>Chhura</td><td>Gariyaband</td><td>primatukeshwarsahu@gmail.com</td><td>9826859965</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>266</td><td>APP71268817403</td><td>22252310202</td><td>Govt.Middle School Sursabandha</td><td>Fingeshwar</td><td>GARIYABAND</td><td>ghanshyam.sahu310374@gmail.com</td><td>8839185778</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>267</td><td>APP71268817787</td><td>22252307207</td><td>Govt.Higher Sec.School Chhuiha</td><td>Fingeshwar</td><td>Gariyaband</td><td>mukeshnirmalkar70253@gmail.com</td><td>9926654052</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>268</td><td>APP71268817827</td><td>22252603102</td><td>Govt. M.S. Burjabahal</td><td>Mainpur</td><td>GARIYABAND</td><td>basantnirmalkar19@gmail.com</td><td>7999164926</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>269</td><td>APP71268817844</td><td>22252615602</td><td>Govt. M.S. Jugad</td><td>Mainpur</td><td>gariaband</td><td>poojacomputermainpur@gmail.com</td><td>7804812572</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>270</td><td>APP71268817868</td><td>22250511203</td><td>Govt.Middile School Deori</td><td>Chhura</td><td>GARIYABAND</td><td>govtmiddileschooldeori@gmail.com</td><td>9977348414</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>271</td><td>APP71268817971</td><td>&nbsp;</td><td>Govt. Middile School Parsadakhurd</td><td>Chhura</td><td>Gariaband</td><td>sahusr550@gmail.com</td><td>9755917528</td><td>1</td>
+		</tr><tr class="textmode">
+			<td>272</td><td>APP71268818063</td><td>STATE GOVT.</td><td>Govt. M.S. Saragaon</td><td>Chhura</td><td>Gariyaband</td><td>kamleshsahu211kamleshsahu@gmail.com</td><td>8103853795</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>273</td><td>APP71268818154</td><td>22251914202</td><td>Govt.Middile School Mainpur 2</td><td>Gariyaband</td><td>GARIYABAND</td><td>gmsmainpur2@gmail.com</td><td>9669757919</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>274</td><td>APP71268818264</td><td>22250501207</td><td>Govt Middle School Bharuwamuda</td><td>Chhura</td><td>gariaband</td><td>bharuwamudams121205@gmail.com</td><td>8889461696</td><td>1</td>
+		</tr><tr class="textmode">
+			<td>275</td><td>APP71268818416</td><td>22250515003</td><td>Govt M S Kharkhara</td><td>Gariyaband</td><td>gariaband</td><td>kishandhitesh@gmail.com</td><td>9575031112</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>276</td><td>APP71268818448</td><td>&nbsp;</td><td>Gov.M.S.Kosambuda</td><td>Chhura</td><td>Gariyaband</td><td>23verma.sanjay@gmail.com</td><td>9981041652</td><td>1</td>
+		</tr><tr class="textmode">
+			<td>277</td><td>APP71268818582</td><td>22251904320</td><td>Kasturba Gandhi Balika Viddhalay Gariaband</td><td>Gariyaband</td><td>Gariaband</td><td>kgbv.gariaband3@gmail.com</td><td>8959055491</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>278</td><td>APP71268818889</td><td>22251408802</td><td>Middle School Nawagaon</td><td>Deobhog</td><td>GARIABAND</td><td>nlalpathar5@gmail.com</td><td>7987014722</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>279</td><td>APP71268818994</td><td>&nbsp;</td><td>M S Nawadih</td><td>Chhura</td><td>Gariaband</td><td>nishad.sukhi@gmail.com</td><td>9165680972</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>280</td><td>APP71268819272</td><td>22250500209</td><td>M.S. Rasela</td><td>Chhura</td><td>Gariaband</td><td>devsahu022@gmail.com</td><td>9754834143</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>281</td><td>APP71268819658</td><td>22251906804</td><td>Govt.Middile School Joba</td><td>Gariyaband</td><td>GARIYABAND</td><td>gmsjoba8@gmail.com</td><td>9589774289</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>282</td><td>APP71268820045</td><td>22252304103</td><td>Govt Middle School Khairjhiti</td><td>Fingeshwar</td><td>Gariyaband</td><td>anju.vaishnav.new28@gmail.com</td><td>7898881125</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>283</td><td>APP71268820411</td><td>22252302202</td><td>Govt. M.S. Jamgaon</td><td>Fingeshwar</td><td>Gariaband</td><td>seemakashyap15886@gmail.com</td><td>9926481194</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>284</td><td>APP71268820581</td><td>22250514202</td><td>Govt.M.S. Charouda</td><td>Chhura</td><td>gariaband</td><td>pravinupadhyay5916@gmail.com</td><td>9907139382</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>285</td><td>APP71268820883</td><td>22251404703</td><td>Ups-Dahigoan</td><td>Deobhog</td><td>Gariyaband</td><td>lakeshtandan1@gmail.com</td><td>7828684112</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>286</td><td>APP71268820976</td><td>222548601</td><td>Govt M.S. Mudagaon</td><td>Deobhog</td><td>Gariyaband</td><td>chainsinghkashyap@gmail.com</td><td>9340425599</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>287</td><td>APP71268821217</td><td>22250502305</td><td>Govt. Middle School Amapara</td><td>Chhura</td><td>Gariaband</td><td>gpremlata1979@gmail.com</td><td>8435845996</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>288</td><td>APP71268821391</td><td>151024</td><td>Govt High School Latapara</td><td>Deobhog</td><td>Gariyaband</td><td>latapara151024@gmail.com</td><td>9770698950</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>289</td><td>APP71268821613</td><td>22252302102</td><td>Govt..Middle School Arand</td><td>Fingeshwar</td><td>Gariaband</td><td>nokhelalsahu71@gmail.com</td><td>9754149839</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>290</td><td>APP71268822035</td><td>&nbsp;</td><td>Govt Middle School Jangda</td><td>Mainpur</td><td>GARIYABAND</td><td>headmaster.jangda@gmail.com</td><td>9131649969</td><td>1</td>
+		</tr><tr class="textmode">
+			<td>291</td><td>APP71268822110</td><td>22250506302</td><td>Govt. Naveen Middle School Diwna</td><td>Chhura</td><td>GARIYABAND</td><td>pawankumarvarma63@gmail.com</td><td>9179572419</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>292</td><td>APP71268822650</td><td>151119</td><td>Govt.High School Kulhadighat</td><td>Mainpur</td><td>GARIABAND</td><td>nidhitiwari441@gmail.com</td><td>8770887763</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>293</td><td>APP71268822840</td><td>22252303102</td><td>Govt. M.S. Koma</td><td>Fingeshwar</td><td>Gariaband</td><td>middleschoolkoma@gmail.com</td><td>9926115110</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>294</td><td>APP71268822919</td><td>22252610908</td><td>Govt. H.S.S. Jhargaon</td><td>Mainpur</td><td>gariaband</td><td>anmolg18517@gmail.com</td><td>7000844315</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>295</td><td>APP71268822995</td><td>&nbsp;</td><td>Govt.M.S.Bijapal</td><td>Chhura</td><td>gariaband</td><td>csgond750@gmail.com</td><td>7898788528</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>296</td><td>APP71268823022</td><td>22252604002</td><td>Govt. M.S. Gudbheli</td><td>Mainpur</td><td>GARIABAND</td><td>bhuwankumar161@gmail.com</td><td>7489875070</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>297</td><td>APP71268823194</td><td>22252615902</td><td>Govt. M.S. Pariyabahal</td><td>Mainpur</td><td>gariaband</td><td>sanjusinha974@gmail.com</td><td>9131569143</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>298</td><td>APP71268823604</td><td>22250506918</td><td>Govt.Middle School Amlor</td><td>Chhura</td><td>GARIABAND</td><td>yuwrajsahu1982@gmail.com</td><td>8085527619</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>299</td><td>APP71268824137</td><td>22250501208</td><td>Govt M S Pandaripani Gond</td><td>Chhura</td><td>Gariyaband</td><td>mrsahu2472@gmail.com</td><td>9340463449</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>300</td><td>APP71268824475</td><td>151139</td><td>Govt. High School Sursabandha</td><td>Fingeshwar</td><td>Gariaband</td><td>mazharbeg04050@gmail.com</td><td>9131976898</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>301</td><td>APP71268824771</td><td>&nbsp;</td><td>Govt Middle School Nistiguda  (Ssa)</td><td>Deobhog</td><td>Gariyaband</td><td>mansinghmarkam1203@gmail.com</td><td>7489374297</td><td>1</td>
+		</tr><tr class="textmode">
+			<td>302</td><td>APP71268825080</td><td>22251915403</td><td>Govt Middle School Kodohardi</td><td>Gariyaband</td><td>gariyaband</td><td>fatimaimdadfatima@gmail.com</td><td>9399651067</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>303</td><td>APP71268825337</td><td>22252611510</td><td>Govt. Boys Middle School Amalipadar</td><td>Mainpur</td><td>GARIABAND</td><td>kamlesh22793@gmail.com</td><td>8815150438</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>304</td><td>APP71268825645</td><td>22250508304</td><td>Govt Middle School Dwartara</td><td>Chhura</td><td>Gariaband</td><td>veddhidhi4@gmail.com</td><td>8839031525</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>305</td><td>APP71268825768</td><td>151034</td><td>Govt High School Kirwai</td><td>Fingeshwar</td><td>Gariaband</td><td>ghsskirwai151034@gmail.com</td><td>8120182092</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>306</td><td>APP71268825971</td><td>22250507402</td><td>Govt Middle School Semhara</td><td>Chhura</td><td>Gariaband</td><td>chetanlalkanwar326@gmail.com</td><td>7828079983</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>307</td><td>APP71268826003</td><td>CHHATTISGARH</td><td>Sarswati Shishu Mandir Purv Madhymik Vidhyalay Urm</td><td>Mainpur</td><td>GARIABAND</td><td>smmurmal18@gmail.com</td><td>7987287603</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>308</td><td>APP71268826543</td><td>&nbsp;</td><td>Govt.M.School Malgaon</td><td>Gariyaband</td><td>GARIABAND</td><td>ritup6380@gmail.com</td><td>7000323646</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>309</td><td>APP71268826644</td><td>&nbsp;</td><td>G M S Kumharpara Gariaband</td><td>Gariyaband</td><td>GARIABAND</td><td>roshiverma1803@gmail.com</td><td>9752617757</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>310</td><td>APP71268827078</td><td>22252612402</td><td>Govt. M.S. Kandekela</td><td>Mainpur</td><td>GARIABAND</td><td>tupendramishra08@gmail.com</td><td>8815148281</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>311</td><td>APP71268827496</td><td>22252305302</td><td>Govt. M. S. Gunderdehi</td><td>Fingeshwar</td><td>Gariyaband</td><td>msgunderdehi@gmail.com</td><td>8435155887</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>312</td><td>APP71268827936</td><td>22250507017</td><td>Ms Piperchhedi</td><td>Chhura</td><td>gariaband</td><td>mspiperchhedi@gmail.com</td><td>9174152255</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>313</td><td>APP71268828195</td><td>22250509317</td><td>Govt M S Kachhardih</td><td>Chhura</td><td>Gariyaband</td><td>nakulver513@gmail.com</td><td>7828084222</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>314</td><td>APP71268828221</td><td>22250509318</td><td>M.S.Ghoghara</td><td>Chhura</td><td>Gariaband</td><td>RAJESHSAHUJI1984@gmail.com</td><td>7828333113</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>315</td><td>APP71268829239</td><td>22250516203</td><td>Govt M S Tilaidadar</td><td>Chhura</td><td>Gariyaband</td><td>gmstilaidadar@gmail.com</td><td>8463861060</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>316</td><td>APP71268829378</td><td>22250509807</td><td>Govt Middle School Dulla</td><td>Chhura</td><td>Gariaband</td><td>svasundhara55@gmail.com</td><td>9993730617</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>317</td><td>APP71268829482</td><td>22252614202</td><td>Govt Middle School Nagesh</td><td>Mainpur</td><td>GARIYABAND</td><td>vbanjarev9@gmail.com</td><td>9144088799</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>318</td><td>APP71268830503</td><td>&nbsp;</td><td>Govt Highschool Sadhouli</td><td>Gariyaband</td><td>GARIABAND</td><td>sinhakavita120@gmail.com</td><td>9424400192</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>319</td><td>APP71268830533</td><td>22250509809</td><td>G.H.S.S.Dulla</td><td>Chhura</td><td>Gariyaband</td><td>hssdulla@gmail.com</td><td>8120440476</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>320</td><td>APP71268830961</td><td>&nbsp;</td><td>Govt.High School -Nistiguda (Rmsa)</td><td>Deobhog</td><td>Gariyaband</td><td>pafullthakur69@gmail.com</td><td>8839505790</td><td>1</td>
+		</tr><tr class="textmode">
+			<td>321</td><td>APP71268831024</td><td>22251403708</td><td>Sahid B. K. Yadu Govt.  Higher Secondary School Ma</td><td>Deobhog</td><td>Gariaband</td><td>tikeramswarn1976@gmail.com</td><td>9337218695</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>322</td><td>APP71268831666</td><td>22251405802</td><td>Govt.M.S. Gadaghat</td><td>Deobhog</td><td>Gariya band</td><td>knkashyap1968@gmail.com</td><td>8770658946</td><td>1</td>
+		</tr><tr class="textmode">
+			<td>323</td><td>APP71268831982</td><td>151089</td><td>Govt. Girls High School Mainpur</td><td>Mainpur</td><td>Gariaband</td><td>govtgirlshsmainpur@gmail.com</td><td>7974053638</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>324</td><td>APP71268832550</td><td>22251905702</td><td>Govt.Ms Kergaon</td><td>Gariyaband</td><td>GARIYABAND</td><td>mskergaon@gmail.com</td><td>8889487398</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>325</td><td>APP71268832709</td><td>22251409701</td><td>Govt.Ups Sendmuda</td><td>Deobhog</td><td>Gariaband</td><td>govtmssendmuda701@gmail.com</td><td>8770619525</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>326</td><td>APP71268832851</td><td>22252609503</td><td>Government High School  Aadpatharr</td><td>Mainpur</td><td>Gariaband</td><td>hemadhruw321@gmail.com</td><td>7722886435</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>327</td><td>APP71268833567</td><td>22252302504</td><td>Govt. M. S. Bhendri</td><td>Fingeshwar</td><td>GARIABAND</td><td>govtmsschoolbhendri@gmail.com</td><td>9685626259</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>328</td><td>APP71268833799</td><td>22252606602</td><td>Govt Middile School Budgeltappa</td><td>Mainpur</td><td>GARIYABAND</td><td>jamshirq71@gmail.com</td><td>6263972465</td><td>1</td>
+		</tr><tr class="textmode">
+			<td>329</td><td>APP71268835494</td><td>&nbsp;</td><td>Govt. Middle School Majarkata</td><td>Gariyaband</td><td>GARIYABAND</td><td>ankitaramteke83@gmail.com</td><td>9406278553</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>330</td><td>APP71268835973</td><td>&nbsp;</td><td>Govt M.S.Kudema</td><td>Chhura</td><td>Gariyaband</td><td>thakurmohanlal92@gmail.com</td><td>8815148089</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>331</td><td>APP71268838530</td><td>&nbsp;</td><td>Middle School Khusrupali</td><td>Chhura</td><td>gariaband</td><td>sanjiwnirala1980@gmail.com</td><td>8966908287</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>332</td><td>APP71268838764</td><td>15076</td><td>Govt. H.S.S. Sarnabahal</td><td>Mainpur</td><td>Gariyaband</td><td>skumarbanpela@gmail.com</td><td>8435123321</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>333</td><td>APP71268838795</td><td>22252311602</td><td>Govt.Middle School Sirrikhurd</td><td>Fingeshwar</td><td>GARIABAND</td><td>sumantobarai2121@gmail.com</td><td>9340020325</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>334</td><td>APP71268839327</td><td>22250509102</td><td>Govt..M.S.Mongra</td><td>Chhura</td><td>Gariyaband</td><td>rmarkam830@gmail.com</td><td>8234096518</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>335</td><td>APP71268841453</td><td>22251408904</td><td>U.P.S.Dumarpita</td><td>Deobhog</td><td>Gariaband</td><td>yeshwanttandon6264@gmail.com</td><td>6264257371</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>336</td><td>APP71268843399</td><td>22251912402</td><td>Govt.M.S.Mouhabhatha</td><td>Gariyaband</td><td>Gariyaband</td><td>minjdp2205@gmail.com</td><td>9977513951</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>337</td><td>APP71268843758</td><td>22251408703</td><td>Govt M S Mahulkot</td><td>Deobhog</td><td>Gariaband</td><td>goshyambisi@gmail.com</td><td>9340152883</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>338</td><td>APP71268844607</td><td>&nbsp;</td><td>Govt Middle School Dabanai</td><td>Deobhog</td><td>Gariaband</td><td>nagrajnetam1967@gmail.com</td><td>8839376827</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>339</td><td>APP71268845935</td><td>22250501702</td><td>Govt. M.S. Medkidabari</td><td>Chhura</td><td>GARIABAND</td><td>trilokdhruw2018@gmail.com</td><td>7898800527</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>340</td><td>APP71268846710</td><td>22250502902</td><td>Govt Middle School Birodar</td><td>Chhura</td><td>Gariaband</td><td>jeevendra.dhruw6@gmail.com</td><td>9009886418</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>341</td><td>APP71268849630</td><td>22250514204</td><td>Goverment High School Charouda</td><td>Chhura</td><td>Gariayaband</td><td>bhemlata112@gmail.com</td><td>9009537994</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>342</td><td>APP71268850859</td><td>22251911702</td><td>Govt. Middle School Jadjada</td><td>Gariyaband</td><td>Gariyaband</td><td>gmsjadjda@gmail.com</td><td>8435768857</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>343</td><td>APP71268851633</td><td>22252607502</td><td>Ms Pipalkhunta</td><td>Mainpur</td><td>Gariaband</td><td>kharsaillaibano@gmail.com</td><td>9131607122</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>344</td><td>APP71268853093</td><td>&nbsp;</td><td>Ms Godhiyari</td><td>Mainpur</td><td>gariyaband</td><td>gamleshkumary@gmail.com</td><td>6261000146</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>345</td><td>APP71268853097</td><td>22250503702</td><td>Govt.Middile School Seoni</td><td>Chhura</td><td>gariyaband</td><td>hnayak2408@gmail.com</td><td>9981696127</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>346</td><td>APP71268855017</td><td>&nbsp;</td><td>Govt.Middle School Kansinghi</td><td>Chhura</td><td>Griyaband</td><td>yashwantnayak645@gmail.com</td><td>8435510887</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>347</td><td>APP71268855281</td><td>22252309502</td><td>Govt Ms Pathhari</td><td>Fingeshwar</td><td>gariyaband</td><td>govtmspatharri@gmail.com</td><td>9977483106</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>348</td><td>APP71268857401</td><td>22251913109</td><td>Govt H. S.SCHOOL KOCHWAY</td><td>Gariyaband</td><td>GARIYABAND</td><td>seemaroshanyadav@gmail.com</td><td>7869516362</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>349</td><td>APP71268858100</td><td>22251401203</td><td>Govt Girls Ms Bandigaon</td><td>Deobhog</td><td>GARIYABAND</td><td>girlsmsbandigaon2004@gmail.com</td><td>7987605059</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>350</td><td>APP71268859196</td><td>22250501404</td><td>Govt. H. S. S. Ruwad</td><td>Chhura</td><td>Gariyaband</td><td>sanjitsurojiya@gmail.com</td><td>9981627726</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>351</td><td>APP71268860430</td><td>22251914602</td><td>Govt Middle School Kosmi D</td><td>Gariyaband</td><td>GARIYABAND</td><td>gmskos996@gmail.com</td><td>9977896274</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>352</td><td>APP71268860437</td><td>22251912302</td><td>Govt. Middle School Kamepur</td><td>Gariyaband</td><td>GARIYABAND</td><td>gmskamepur@gmail.com</td><td>9340890807</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>353</td><td>APP71268860630</td><td>151091</td><td>H.S.Latapara</td><td>Mainpur</td><td>mainpur</td><td>principal.latapara@gmail.com</td><td>7697608861</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>354</td><td>APP71268860646</td><td>22252300606</td><td>Govt  High   School   Sirrikala</td><td>Fingeshwar</td><td>GARIYABAND</td><td>neerdeepsahu@gmail.com</td><td>9753777873</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>355</td><td>APP71268862953</td><td>&nbsp;</td><td>High School Madanpur</td><td>Gariyaband</td><td>Gariaband</td><td>rehmanm1961@gmail.com</td><td>8319882364</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>356</td><td>APP71268863390</td><td>22251901002</td><td>Middle School Jangal Dhawalpur</td><td>Gariyaband</td><td>Gariyaband</td><td>msjangaldhwalpur@gmail.com</td><td>9098838216</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>357</td><td>APP71268865002</td><td>22251911602</td><td>Govt. Middile School Chhindoula</td><td>Gariyaband</td><td>GARIYABAND</td><td>gmschhindoula@gmail.com</td><td>9977981176</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>358</td><td>APP71268870970</td><td>22251401402</td><td>Govt M.S. Daralipara (Ssa)</td><td>Deobhog</td><td>GARIABAND</td><td>puranchabdsingh@gmail.com</td><td>9399689873</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>359</td><td>APP71268872109</td><td>22250510605</td><td>Govt Middle School Talesar</td><td>Chhura</td><td>GARIYABAND</td><td>mksahu1942@gmail.com</td><td>9753320863</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>360</td><td>APP71268875021</td><td>22250505102</td><td>Govt Middle School Khairjhiti</td><td>Chhura</td><td>gariaband</td><td>gmskhairjhiti@gmail.com</td><td>9993850435</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>361</td><td>APP71268875548</td><td>22251404002</td><td>Govt.Ups Sahaskhol</td><td>Deobhog</td><td>DEOBHOG</td><td>gmssahaskhol@gmail.com</td><td>8770658946</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>362</td><td>APP71268880526</td><td>151085</td><td>Govt Girls H.S.S.Amlipadar</td><td>Mainpur</td><td>GARIABAND</td><td>govtghssamlipadar@gmail.com</td><td>9131551890</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>363</td><td>APP71268880721</td><td>2221907502</td><td>Govt.Middile School Lohari</td><td>Gariyaband</td><td>GARIYABAND</td><td>gmslohari22@gmail.com</td><td>7999744867</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>364</td><td>APP71268884003</td><td>22251409902</td><td>Govt. M.S.Bhatrabahali</td><td>Deobhog</td><td>GARIABAND</td><td>bhatrabahlims147@gmail.com</td><td>6266856229</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>365</td><td>APP71268884531</td><td>&nbsp;</td><td>Govt.Middile School Churki Dadar</td><td>Chhura</td><td>GARIYABAND</td><td>rajeshdinu143@gmail.com</td><td>8354871290</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>366</td><td>APP71268887998</td><td>CHHATTISGARH</td><td>Govt Middle School Sahaspur</td><td>Fingeshwar</td><td>GARIYABAND</td><td>somp91539@gmail.com</td><td>9755639717</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>367</td><td>APP71268905141</td><td>22251401204</td><td>Govt High School Bandigaon</td><td>Deobhog</td><td>gariaband</td><td>principalhsbandigaon1998@gmail.com</td><td>9691079730</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>368</td><td>APP71268911318</td><td>22252301205</td><td>Govt.High School Beltukari</td><td>Fingeshwar</td><td>Fingeshwar</td><td>schoolbeltukri@gmail.com</td><td>9575413348</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>369</td><td>APP71268916216</td><td>22250508202</td><td>Govt.M.S.Kasekera</td><td>Chhura</td><td>Gariyaband</td><td>dhruw6760@gmail.com</td><td>9754288455</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>370</td><td>APP71268916268</td><td>22252601008</td><td>Gov. Hs Shobha</td><td>Mainpur</td><td>Gariaband</td><td>govThsshobha@gmail.com</td><td>7587258744</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>371</td><td>APP71268917462</td><td>&nbsp;</td><td>Govt High School Karchali</td><td>Chhura</td><td>GARIYANABD</td><td>kamallalsahu080@gmail.com</td><td>7587092731</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>372</td><td>APP71268918018</td><td>22250504330</td><td>Govt Aadarsh M.S. Chhura</td><td>Chhura</td><td>Gariaband</td><td>chandrabnishad@gmail.com</td><td>9753004321</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>373</td><td>APP71268919027</td><td>22251911603</td><td>Govt Highschool Chhindoula</td><td>Gariyaband</td><td>GARIABAND</td><td>pringovthighschoolchhindola@gmail.com</td><td>8435954110</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>374</td><td>APP71268920245</td><td>22252600608</td><td>Govt. H.S.S Urmal</td><td>Mainpur</td><td>GARIYABAND</td><td>vchandrashekhar29@gmail.com</td><td>7000379748</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>375</td><td>APP71268920743</td><td>22250508103</td><td>Govt.M.S. Gondalabahara</td><td>Chhura</td><td>Gariaband</td><td>yashwantchandrakar83@gmail.com</td><td>9753555137</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>376</td><td>APP71268921683</td><td>22251900716</td><td>Govt. Higher Secandery School Dhawalpur</td><td>Gariyaband</td><td>GARIABAND</td><td>ghssdhawalpur19@gmail.com</td><td>7000241046</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>377</td><td>APP71268922742</td><td>22252310606</td><td>Govt. High School Jenjra</td><td>Fingeshwar</td><td>GARIABAND</td><td>85GUNWANTsahu@gmail.com</td><td>8839226380</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>378</td><td>APP71268922775</td><td>22250508810</td><td>M.S.Vanlohajhar (Ssa)</td><td>Chhura</td><td>Chhura</td><td>devendradhruw12836@gmail.com</td><td>9009525699</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>379</td><td>APP71268922957</td><td>22250501215</td><td>GOVT.H.S.S. KANSINGHI</td><td>Chhura</td><td>Gariyaband</td><td>kansinghihss21@gmail.com</td><td>8349368407</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>380</td><td>APP71268922989</td><td>22250509005</td><td>Govt.High School Sajapali R.M.S.A.</td><td>Chhura</td><td>Gariyaband</td><td>harishmiree@gmail.com</td><td>8889141845</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>381</td><td>APP71268923325</td><td>22250503903</td><td>Govt Ms Fingeshwari</td><td>Chhura</td><td>Gariaband</td><td>gidhari.diwang1982@gmail.com</td><td>9340332106</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>382</td><td>APP71268923449</td><td>&nbsp;</td><td>Govt Middle School Sahebinkachhar</td><td>Mainpur</td><td>GARIYABAND</td><td>rajsahu6268261267@gmail.com</td><td>6268261267</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>383</td><td>APP71268924808</td><td>22251913303</td><td>Govt. High School Nahargaon</td><td>Gariyaband</td><td>Griyaband</td><td>ususha25@gmail.com</td><td>9575003234</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>384</td><td>APP71268925094</td><td>22252300804</td><td>Govt .H.S.S.Bhasera</td><td>Fingeshwar</td><td>gariyaband</td><td>govthssbhasera@gmail.com</td><td>9826517939</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>385</td><td>APP71268926011</td><td>22250501402</td><td>Govt. M.S. Ruwad</td><td>Chhura</td><td>Gariyaband</td><td>tekeshpargniha7@gmail.com</td><td>9340459663</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>386</td><td>APP71268927185</td><td>22252306103</td><td>G.Boys M.School Kaundkera</td><td>Fingeshwar</td><td>Gariaband</td><td>khelanyadu5063@gmail.com</td><td>9981298872</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>387</td><td>APP71268927767</td><td>&nbsp;</td><td>M S Nawapara Bh.</td><td>Chhura</td><td>GARIYABAND</td><td>mr.keshawramsahu@gmail.com</td><td>9575947989</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>388</td><td>APP71268930899</td><td>22252308305</td><td>Govt. Hr.S.S.Parsadajoshi</td><td>Fingeshwar</td><td>GARIYABAND</td><td>parsadajoshi2019@gmail.com</td><td>9424234756</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>389</td><td>APP71268934237</td><td>22252301305</td><td>Govt. Boys Middle School Kopra</td><td>Fingeshwar</td><td>GARIABAND</td><td>tinku151043@gmail.com</td><td>9981023117</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>390</td><td>APP71268935036</td><td>22252601904</td><td>Govt Middle School Chhaila</td><td>Mainpur</td><td>GARIYABAND</td><td>realmekb@gmail.com</td><td>9302656547</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>391</td><td>APP71268935136</td><td>22252614002</td><td>Govt Middle School Chikhali</td><td>Mainpur</td><td>GARIYABAND</td><td>rajendrakumar12051969@gmail.com</td><td>9131932124</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>392</td><td>APP71268935187</td><td>&nbsp;</td><td>Govt Shahid Veer Narayan Singh High School Jidar</td><td>Mainpur</td><td>GARIYABAND</td><td>vinaykapil22@gmail.com</td><td>7805967006</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>393</td><td>APP71268937424</td><td>22250509603</td><td>Govt M S Boys Ranipartewa</td><td>Chhura</td><td>GARIABAND</td><td>hemlatasahu790@gmail.com</td><td>9589099163</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>394</td><td>APP26862937750</td><td>22250518301</td><td>Govt. Middle School Mudhipani</td><td>Chhura</td><td>Gariaband</td><td>msmudhipani2004@gmail.com</td><td>9926192016</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>395</td><td>APP71268940612</td><td>22252601402</td><td>Govt M School Girhola</td><td>Mainpur</td><td>GARIYABAND</td><td>gms85118@gmail.com</td><td>7611189679</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>396</td><td>APP71268940710</td><td>22250510606</td><td>Govt. High School Gaydabari</td><td>Chhura</td><td>GARIYABAND</td><td>sahudomendra64@gmail.com</td><td>9039307181</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>397</td><td>APP71268941613</td><td>22252304603</td><td>Govt High School Sindhouri</td><td>Fingeshwar</td><td>GARIABAND</td><td>tinku151043@gmail.com</td><td>9098174072</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>398</td><td>APP71268942366</td><td>22250509609</td><td>Govt  Middle School Karchali</td><td>Chhura</td><td>GARIYABAND</td><td>Dhruwgk750@gmail.com</td><td>6263440405</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>399</td><td>APP71268943583</td><td>22252306504</td><td>Ghss Dhuma</td><td>Fingeshwar</td><td>Gariaband</td><td>indranishad5@gmail.com</td><td>9754686829</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>400</td><td>APP71268945092</td><td>22251912406</td><td>Govt.H.S.Mouhabhatha</td><td>Gariyaband</td><td>GARIYABAND</td><td>ghsmouhabhatha@gmail.com</td><td>7987027329</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>401</td><td>APP71268945793</td><td>22252305628</td><td>Govt. Daiviya Sampad Cg H.S.S.Rajim</td><td>Fingeshwar</td><td>GARIYABAND</td><td>mr.manjosharma@gmail.com</td><td>8109017159</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>402</td><td>APP71268946844</td><td>22251915602</td><td>Govt.Middile School Chikhali</td><td>Gariyaband</td><td>GARIYABAND</td><td>gmschikhali5@gmail.com</td><td>7999343781</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>403</td><td>APP71268947231</td><td>22251901808</td><td>Govt.Middile School Nagabuda</td><td>Gariyaband</td><td>GARIYABAND</td><td>gmsnagabuda75@gmail.com</td><td>6260629565</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>404</td><td>APP71268948005</td><td>22251900403</td><td>Govt.Middile School Pariyabahra</td><td>Gariyaband</td><td>GARIYABAND</td><td>gmspariyabahra@gmail.com</td><td>8817637644</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>405</td><td>APP71268948833</td><td>22252603904</td><td>Govt.G.H.S.S.Muchbahal</td><td>Mainpur</td><td>Gariyaband</td><td>mahendratandan1215@gmail.com</td><td>9893749036</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>406</td><td>APP71268950229</td><td>22252609903</td><td>Govt Middle School Jidar</td><td>Mainpur</td><td>GARIYABAND</td><td>bhagwatpsahu89@gmail.com</td><td>9589538126</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>407</td><td>APP71268950413</td><td>&nbsp;</td><td>Govt Middle School Adgadi</td><td>Mainpur</td><td>GARIYABAND</td><td>rohendrapatel1@gmail.com</td><td>9098170437</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>408</td><td>APP71268951063</td><td>22252609702</td><td>Govt.Middle School Kuchenga</td><td>Mainpur</td><td>Mainpur</td><td>Vkharanshu007@gmail.com</td><td>8917606317</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>409</td><td>APP71268952767</td><td>22251907402</td><td>Govt M S Kodobatar</td><td>Gariyaband</td><td>GARIABAND</td><td>premlalv13@gmail.com</td><td>9753918323</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>410</td><td>APP71268953472</td><td>&nbsp;</td><td>Govt Middle School Indagaon</td><td>Mainpur</td><td>GARIYABAND</td><td>gloriaekka01@gmail.com</td><td>6261301427</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>411</td><td>APP71268953690</td><td>22252611511</td><td>Govt Girls Middle School Amlipadar</td><td>Mainpur</td><td>GARIABAND</td><td>mahendrameshram365@gmail.com</td><td>7974307764</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>412</td><td>APP71268953846</td><td>22252309202</td><td>Govt Middle School Borsi</td><td>Fingeshwar</td><td>RAIPUR</td><td>atmaramsahu45@gmail.com</td><td>9754733133</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>413</td><td>APP71268954916</td><td>22252626202</td><td>Govt.Middle School Kodomali</td><td>Mainpur</td><td>GARIABAND</td><td>sdgritlahare@gmail.com</td><td>8085954358</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>414</td><td>APP71268955507</td><td>22252606008</td><td>M S Kharipathara</td><td>Mainpur</td><td>GARIYABAND</td><td>0789hs9870sh2148@gmail.com</td><td>7000134787</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>415</td><td>APP71268956822</td><td>222526O4602</td><td>Govtmiddle School Dhurawapathara</td><td>Mainpur</td><td>GARIABAND</td><td>bhagirathinagesh914@gmail.com</td><td>9340138916</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>416</td><td>APP71268957194</td><td>22252611902</td><td>Govt Middle School Dendupadar</td><td>Mainpur</td><td>GARIABAND</td><td>kishuthakur75075000@gmail.com</td><td>7000901995</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>417</td><td>APP71268957509</td><td>22251911404</td><td>Govt.High School Rawandiggi</td><td>Gariyaband</td><td>GARIYABAND</td><td>ravandiggighs@gmail.com</td><td>9009886334</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>418</td><td>APP71268957727</td><td>22252601003</td><td>Govt. M. S. Shobha</td><td>Mainpur</td><td>Gariyaband</td><td>dthakur202017@gmail.com</td><td>9691265987</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>419</td><td>APP71268959111</td><td>22252606203</td><td>Govt. Middle School Goharapadar</td><td>Mainpur</td><td>Gariyaband</td><td>bhagavanormpande@gmil.com</td><td>9303665059</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>420</td><td>APP71268959382</td><td>22250510604</td><td>Govt Middle School Gaydabari</td><td>Chhura</td><td>GAYDABARI</td><td>banswarvikram@gmail.com</td><td>8120054542</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>421</td><td>APP71268959561</td><td>22251407506</td><td>Govt.H.S Dumarbahal</td><td>Deobhog</td><td>GARIYABAND</td><td>jageshwarsinghdhruw@gmail.com</td><td>7354721389</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>422</td><td>APP71268959991</td><td>22251908102</td><td>Govt.Middile School Kopekasa</td><td>Gariyaband</td><td>GARIYABAND</td><td>gmskopekasa@gmail.com</td><td>8719850573</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>423</td><td>APP71268960280</td><td>22251901810</td><td>Govt H S Schol Nagabuda</td><td>Gariyaband</td><td>GARIABAND</td><td>sumirakhi23@gmail.com</td><td>9425582253</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>424</td><td>APP71268960470</td><td>22250503002</td><td>Govt. M. S. Ladabahara</td><td>Chhura</td><td>Gariaband</td><td>msladabahara@gmail.com</td><td>9131343118</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>425</td><td>APP71268962392</td><td>22252606802</td><td>Govt.Middle School Dhobanmal</td><td>Mainpur</td><td>Gariyaband</td><td>tikammanjhi20@gmail.com</td><td>8319958320</td><td>4</td>
+		</tr><tr class="textmode">
+			<td>426</td><td>APP71268962575</td><td>&nbsp;</td><td>Govt Middle School Paylikhand</td><td>Mainpur</td><td>GARIYABAND</td><td>pareshwar.mainpur@gmail.com</td><td>6260360918</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>427</td><td>APP71268964542</td><td>22251904333</td><td>Govt.Middile School Dakbangla</td><td>Gariyaband</td><td>GARIYABAND</td><td>gmsdakbangla@gmail.com</td><td>9425525951</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>428</td><td>APP71268968340</td><td>22251904504</td><td>Govt. Middle School Vijaynagar</td><td>Gariyaband</td><td>Gariaband</td><td>rekhramdhruw62@gmail.com</td><td>9993241669</td><td>2</td>
+		</tr><tr class="textmode">
+			<td>429</td><td>APP71268968693</td><td>22252609302</td><td>Govt.Middle School Bhatapani</td><td>Mainpur</td><td>GARIABAND</td><td>samarumarkam25@gmail.com</td><td>6265945958</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>430</td><td>APP71268971015</td><td>22252304502</td><td>Govt M S Pendra</td><td>Fingeshwar</td><td>GARIYABAND</td><td>msahu1287@gmail.com</td><td>9753751656</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>431</td><td>APP71268971524</td><td>22252307902</td><td>Govt. Middle .School Belar</td><td>Fingeshwar</td><td>GARIYABAND</td><td>kanwarkomalnarayan@gmail.com</td><td>9617531932</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>432</td><td>APP71268976048</td><td>&nbsp;</td><td>Govt Aadiwasi Kanya Aashram Shobha</td><td>Mainpur</td><td>GARIYABAND</td><td>neetupahri.shobha@gmail.com</td><td>6263802082</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>433</td><td>APP71268977624</td><td>152004</td><td>Ranimshyam Kumari Devi Girls Hss Fingeshwar</td><td>Fingeshwar</td><td>Gariaband</td><td>ranishyamkumaridevi@gmai.com</td><td>9039521321</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>434</td><td>APP71268980135</td><td>22250502402</td><td>Ms Gidhani</td><td>Chhura</td><td>Gariaband</td><td>hemlal044@gmail.com</td><td>9399349099</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>435</td><td>APP71268986824</td><td>&nbsp;</td><td>Govt Middle School Bhutbeda</td><td>Mainpur</td><td>GARIYABAND</td><td>pawenthakur07@gmail.com</td><td>6264086506</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>436</td><td>APP71268987138</td><td>22252603902</td><td>Govt.Middle School Muchbahal</td><td>Mainpur</td><td>Gariyaband</td><td>sheshbhasker89@gmail.com</td><td>8770641339</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>437</td><td>APP712681041213</td><td>22252610006</td><td>Govt. Middle School Deharguda</td><td>Mainpur</td><td>Gariaband</td><td>kantisahu182@gmail.com</td><td>8839724794</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>438</td><td>APP712681081481</td><td>22250508811</td><td>Amar Shahid Faneshwar Sinha Govt H S S Sorid Khurd</td><td>Chhura</td><td>GARIYABAND</td><td>yogendrakumar0162@gmail.com</td><td>8959230162</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>439</td><td>APP712681084311</td><td>22251904317</td><td>Swami Atmanand Govt.English Medium School Gariyaband</td><td>Gariyaband</td><td>Gariyaband</td><td>CHOUDHARY.KP25@GMAIL.COM</td><td>9575666185</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>440</td><td>APP712681096637</td><td>22252607202</td><td>Govt Middle School Sargiguda</td><td>Mainpur</td><td>GARIYABAND</td><td>lochannagesh0@gmail.com</td><td>8815065905</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>441</td><td>APP712681103370</td><td>22252302204</td><td>Govt. H.S. School Jamgaon Fingeshwar</td><td>Fingeshwar</td><td>gariyaband</td><td>vidyabhushansahu32780@mail.com</td><td>8120797375</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>442</td><td>APP712681129279</td><td>22252300903</td><td>Govt Ms Patharra</td><td>Fingeshwar</td><td>GARIYABAND</td><td>aloksharma00003@gmail.com</td><td>9826332023</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>443</td><td>APP712681142008</td><td>22252619602</td><td>Govt.M.S.Kuralapara</td><td>Mainpur</td><td>Gariyaband</td><td>vsahu4113@gmail.com</td><td>9770594951</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>444</td><td>APP712681148753</td><td>22252309402</td><td>Gov. M S Parsadakala</td><td>Fingeshwar</td><td>Gariaband</td><td>girwaryadawbijali@gmail.com</td><td>8959268449</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>445</td><td>APP712681151018</td><td>22250504350</td><td>Indian Public School Chhura</td><td>Chhura</td><td>Gariaband</td><td>indianpublicschool067@gmail.com</td><td>9926001590</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>446</td><td>APP712681152823</td><td>22252305615</td><td>Government  Middle School Damouapara Rajim</td><td>Fingeshwar</td><td>gariyaband</td><td>msdpr5615@gmail.com</td><td>9926273697</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>447</td><td>APP712681154688</td><td>22252302402</td><td>Govt. M.S. Sendar</td><td>Fingeshwar</td><td>GARIYABAND</td><td>aashtoshkurre@gmail.com</td><td>6265267966</td><td>3</td>
+		</tr><tr class="textmode">
+			<td>448</td><td>APP712681159011</td><td>22251401903</td><td>Govt.H.S.S.Gohrapadar</td><td>Deobhog</td><td>Gariaband</td><td>skdesh05@gmail.com</td><td>7987544326</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>449</td><td>APP712681159781</td><td>22252305629</td><td>Govt Girls Higher Secondary School Rajim</td><td>Fingeshwar</td><td>gariyaband</td><td>gghssrajim@gmail.com</td><td>8959783099</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>450</td><td>APP712681159829</td><td>22252303509</td><td>Govt. T.D.M.S.Boys Fingeshwar</td><td>Fingeshwar</td><td>Gariaband</td><td>sinhabhikhamlal05@gmail.com</td><td>9993310623</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>451</td><td>APP712681160290</td><td>22252303507</td><td>Govt Girls M S Fingeshwar</td><td>Fingeshwar</td><td>GARIYABAND</td><td>THANESH313@GMAIL.COM</td><td>9755692961</td><td>5</td>
+		</tr><tr class="textmode">
+			<td>452</td><td>APP712681160365</td><td>22252305607</td><td>Govt Ms Girsl School Rajim</td><td>Fingeshwar</td><td>GARIYABAND</td><td>dineshanjor@gmail.com</td><td>9826778806</td><td>5</td>
+		</tr>
+	</table>
+</div>
